@@ -22,6 +22,7 @@
             endswith()
     公共方法：
         1.len() 返回str的长度
+        2.Obj.join(iterable) 用Obj迭代连接iterable对象;可迭代对象转换为str
     格式化： format：
         1.'我叫{},今年{}，我叫{}'.format('web',23,'web')   #普通
         2.'我叫{0},今年{1}，我叫{0}'.format('web',23)   # 重复的格式化

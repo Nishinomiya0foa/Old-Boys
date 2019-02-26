@@ -1,13 +1,13 @@
 """
     变量命名规范：
-    1.单词之间用_分开  add_num()
-    2.全局变量，大写   PI,NUMBER()
-    3.实例变量，以_开头     _example()
-    4.私有实例变量    __private()
-    5.普通函数，_动词+名词   _get_name(),_add_age()
-    6.普通私有函数， __动词+名词   __get_name()
-    7.类名，首字母大写单词串    MyClass
-    8.函数&方法，函数名应该为小写，可以用下划线风格单词以增加可读性  myfunction,my_function
+        1.单词之间用_分开  add_num()
+        2.全局变量，大写   PI,NUMBER()
+        3.实例变量，以_开头     _example()
+        4.私有实例变量    __private()
+        5.普通函数，_动词+名词   _get_name(),_add_age()
+        6.普通私有函数， __动词+名词   __get_name()
+        7.类名，首字母大写单词串    MyClass
+        8.函数&方法，函数名应该为小写，可以用下划线风格单词以增加可读性  myfunction,my_function
 """
 
 
