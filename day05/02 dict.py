@@ -1,6 +1,6 @@
 """
 不可变数据类型： tuple, bool, str, int    ----可哈希
-  可变数据类型： list，dict， set
+  可变数据类型： list，dict， set      ----对其进行过各种方法后，其值本身是被改变的
 
 dict：无序的-没有索引
     1. key必须为不可变数据类型
