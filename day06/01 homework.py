@@ -143,25 +143,52 @@ print(dic)
     3：如果用户输入的商品序号有误，则提示输入有误，并重新输入。
     4：用户输入Q或者q，退出程序。
 """
-goods = [{"name": "电脑", "price": 1999},
-         {"name": "鼠标", "price": 10},
-         {"name": "游艇", "price": 20},
-         {"name": "美女", "price": 998}, ]
-id = 0
-for i in goods:
-    print('第 {id} 个商品为 {name} ，价格为 {price}'.format(id=id+1,
-                                                   name=goods[id]['name'], price=goods[id]['price']))
-    id += 1
-while 1:
-    customer_chosen = input('输入商品序号：')
-    if customer_chosen.upper() == 'Q':
-        break
-    id = int(customer_chosen)
-    if 0 < id <= len(goods):
-        print('你选择的是{}, 价格为{}'.format(goods[id-1]['name'], goods[id-1]['price']))
-        break
-    else:
-        print('无此商品，重新输入')
+# goods = [{"name": "电脑", "price": 1999},
+#          {"name": "鼠标", "price": 10},
+#          {"name": "游艇", "price": 20},
+#          {"name": "美女", "price": 998}, ]
+# id = 0
+# for i in goods:
+#     print('第 {id} 个商品为 {name} ，价格为 {price}'.format(id=id+1,
+#                                                    name=goods[id]['name'], price=goods[id]['price']))
+#     id += 1
+# while 1:
+#     customer_chosen = input('输入商品序号：')
+#     if customer_chosen.upper() == 'Q':
+#         break
+#     id = int(customer_chosen)
+#     if 0 < id <= len(goods):
+#         print('你选择的是{}, 价格为{}'.format(goods[id-1]['name'], goods[id-1]['price']))
+#         break
+#     else:
+#         print('无此商品，重新输入')
 
 # 默写 字典的增删改查
+"""
+    dict，list为可变数据类型，不可哈希
+    增：
+        dict[key] = value   key不存在dict中时，新增key，value；key存在时，覆盖老的value
+        dict.setdefault(key, value) key不存在时，新增key，value；key存在时，无变化
+    删：
+        del dict[key]   删除字典，或字典键值；无返回值
+        dict.clear()    清空字典
+        dict.pop(key, d)    删除字典键值key；返回值为d，d默认为None
+        dict.popitem()  随机删除键值队（py3中为末位键值对）；返回键值2-tuple
+    改：
+        dict[key] = value   key已存在，则value进行覆盖
+        dict.update(new_dict)   用new_dict中的所有键值对dict进行覆盖，无则新增
+    查：
+        dict.keys() dict.values()   dict.items()    返回可迭代的类似列表的 key value   (key, value)
+        for key, value in dict.items():
+            print key, value    遍历输出key，value
+        dict.get(key, d)    返回key对应的value，key不存在则返回d，d默认为None
+"""
+
+
 # 默写大妈 过滤敏感字符 l = ['小三','后宫如云']， 用相同数量的*代替
+l = ['小三', '后宫如云']
+user_input = input('>')
+for i in l:
+    if i in user_input:
+        user_input = user_input.replace(i, '*'*len(i))
+print(user_input)
