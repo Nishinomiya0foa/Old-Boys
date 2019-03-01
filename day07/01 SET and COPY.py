@@ -1,13 +1,51 @@
 """
-    集合 set：可变数据类型  和 dict list一样
-                但其中的元素必须是不可变数据类型
-                无序，不重复  ---- 可用于列表去重
-        应用：去除
+集合 set：可变数据类型  和 dict list一样
+            但其中的元素必须是不可变数据类型
+            无序，不重复  ---- 可用于列表去重
+    应用：去除
+
+    创建：
+        # 内部元素必须为不可变（可哈希）元素，
+        set = set({obj1,obj2})
+        set = {obj1, obj2, obj3}
+    增：
+        set.add(obj)
+        set.update(obj)  # obj必须为可迭代对象，同list中的extend（）一样，obj被迭代后随机添加入set
+    删：
+        set.pop()  # 随机删除某元素，有返回值，返回值为被删除的元素
+        set.remove(obj)  # 删除指定元素obj，obj不存在会报错
+        set.clear()  # 清空set
+        del set  # 删除set
+    改：
+        set内部元素为不可变数据，无法改变
+    查：
+        for ... in set:  # 遍历
+
+set的操作：
+    1.交集    set1 & set2 或者 set1.intersection(set2)
+    2.并集    set1 | set2 或者 set1.union(set2)
+    3.反交集   set1 ^ set2 或者 set1.symmetric_difference(set2)  ----两个集合中除了交集元素以外的其他元素组成的集合
+    4.差集    set1 - set2 或者 set1.difference(set2)  ----set1中独有的元素组成的集合
+    5.子集与超集     set1 > set2 或者 set1.issuperset(set2)    ----判断set1是否为set2的超集，返回bool值
+                    set1 < set2 或者 set1.issubset(set2)    ----判断set1是否为set2的子集，返回bool值
+    5.frozenset()
+        frozenset(set2) ----将set2冻结，使其变为不可变类型<frozenset>，只可以进行遍历查询
+
+应用：
+    1.去除list中重复元素
+list = [1,2,2,3,4,4,5,]
+set = list
+list = set
+
+
+
 """
+
 
 # 集合的创建
 set1 = set({1,2,3})
 set2 = {1,2,3}
+
 # 如果内部元素为可变元素,会报错提示为内部有不可哈希的元素
 # set3 = {1,'a', {'a':22,}}
 print(set2)
