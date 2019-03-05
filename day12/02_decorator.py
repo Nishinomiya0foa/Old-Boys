@@ -66,9 +66,12 @@
 """"""
 import time
 
+from functools import wraps  # 这个导入的包是为了查看被装饰的函数时，仍能查到其本身。而不是inner函数
+
 FLAG = False  # 增加标志位， 作为装饰器的开关
 def timmer_out(flag):  # 装饰器外面再套上一层函数。形参为标志位
     def timmer(f):
+        @wraps(f)  # 在装饰器的内部进行本身的声明。不会改变被装饰函数的函数名
         def inner(*args, **kwargs):
             if flag:
                 start = time.time()
@@ -84,6 +87,9 @@ def timmer_out(flag):  # 装饰器外面再套上一层函数。形参为标志�
 @timmer_out(FLAG)
 def func1():
     print('this is func1')
+    print(func1.__name__)  # 此处查看到的是inner()函数的函数名
+                        # 为了避免这种情况。
+                        # from functools import wraps  # 导入这么一个方法
     time.sleep(0.1)
 
 @timmer_out(FLAG)
