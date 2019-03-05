@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="referrer" content="origin" />
+    <title>pilgrim_Acc - 博客园</title>
+    <link type="text/css" rel="stylesheet" href="/bundles/blog-common.css?v=-duj5vpGTntb85GJoM3iRI972XwWcI-j8zmqDzyfu2w1"/>
+<link id="MainCss" type="text/css" rel="stylesheet" href="/skins/BlackLowKey/bundle-BlackLowKey.css?v=porUb1GRMsPCuLZTJKjoDyrJre6Y7-Oiq-zx-_VcGG81"/>
+<link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/BlackLowKey/bundle-BlackLowKey-mobile.css?v=Go8Bj0ZU9gZXuPSKWcSQabps3E1njgJKYz4DiOq6-N41"/>
+    <link title="RSS" type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/pilgrim-acc/rss"/>
+    <link title="RSD" type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/pilgrim-acc/rsd.xml"/>
+<link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/pilgrim-acc/wlwmanifest.xml"/>
+    <script src="//common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script>var currentBlogId=495119;var currentBlogApp='pilgrim-acc',cb_enable_mathjax=false;var isLogined=false;</script>
+    <script src="/bundles/blog-common.js?v=tC8jAZ0wy3oshizgQb8icmqAxTSV8P2dARl7fIs4eoE1" type="text/javascript"></script>
+</head>
+<body>
+<a name="top"></a>
+
+
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+	<a id="lnkBlogLogo" href="https://www.cnblogs.com/pilgrim-acc/"><img id="blogLogo" src="/Skins/custom/images/logo.gif" alt="返回主页" /></a>			
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle" href="https://www.cnblogs.com/pilgrim-acc/">pilgrim_Acc</a></h1>
+<h2></h2>
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+	<div id="navigator">
+		
+<ul id="navList">
+<li><a id="blog_nav_sitehome" class="menu" href="https://www.cnblogs.com/">博客园</a></li>
+<li><a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/pilgrim-acc/">首页</a></li>
+<li><a id="blog_nav_newpost" class="menu" rel="nofollow" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">新随笔</a></li>
+<li><a id="blog_nav_contact" class="menu" rel="nofollow" href="https://msg.cnblogs.com/send/pilgrim_Acc">联系</a></li>
+<li><a id="blog_nav_rss" class="menu" href="https://www.cnblogs.com/pilgrim-acc/rss">订阅</a>
+<!--<a id="blog_nav_rss_image" class="aHeaderXML" href="https://www.cnblogs.com/pilgrim-acc/rss"><img src="//www.cnblogs.com/images/xml.gif" alt="订阅" /></a>--></li>
+<li><a id="blog_nav_admin" class="menu" rel="nofollow" href="https://i.cnblogs.com/">管理</a></li>
+</ul>
+		<div class="blogStats">
+			
+			<div id="blog_stats">
+<span id="stats_post_count">随笔 - 8&nbsp; </span>
+<span id="stats_article_count">文章 - 0&nbsp; </span>
+<span id="stats-comment_count">评论 - 0</span>
+</div>
+			
+		</div><!--end: blogStats -->
+	</div><!--end: navigator 博客导航栏 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		
+        
+<!--done-->
+
+
+<div class="day">
+	<div class="dayTitle">
+		<a id="homepage1_HomePageDays_DaysList_ctl00_ImageLink" href="https://www.cnblogs.com/pilgrim-acc/archive/2019/03/04.html">2019年3月4日</a>				  
+	</div>
+
+	
+			<div class="postTitle">
+				<a id="homepage1_HomePageDays_DaysList_ctl00_DayList_TitleUrl_0" class="postTitle2" href="https://www.cnblogs.com/pilgrim-acc/p/10469723.html">2019-3-4 函数命名空间、作用域、嵌套、作用域链、闭包</a>
+			</div>
+			<div class="postCon"><div class="c_b_p_desc">摘要: 只有注册用户登录后才能阅读该文。<a href="https://www.cnblogs.com/pilgrim-acc/p/10469723.html" class="c_b_p_desc_readmore">阅读全文</a></div></div>
+			<div class="clear"></div>
+			<div class="postDesc">posted @ 2019-03-04 11:33 pilgrim_Acc 阅读(12) 评论(0)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=10469723" rel="nofollow">编辑</a></div>
+			<div class="clear"></div>
+		
+</div>
+
+
+<div class="day">
+	<div class="dayTitle">
+		<a id="homepage1_HomePageDays_DaysList_ctl01_ImageLink" href="https://www.cnblogs.com/pilgrim-acc/archive/2019/03/02.html">2019年3月2日</a>				  
+	</div>
+
+	
+			<div class="postTitle">
+				<a id="homepage1_HomePageDays_DaysList_ctl01_DayList_TitleUrl_0" class="postTitle2" href="https://www.cnblogs.com/pilgrim-acc/p/10462773.html">2019-03-02  function base</a>
+			</div>
+			<div class="postCon"><div class="c_b_p_desc">摘要: 只有注册用户登录后才能阅读该文。<a href="https://www.cnblogs.com/pilgrim-acc/p/10462773.html" class="c_b_p_desc_readmore">阅读全文</a></div></div>
+			<div class="clear"></div>
+			<div class="postDesc">posted @ 2019-03-02 20:31 pilgrim_Acc 阅读(4) 评论(0)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=10462773" rel="nofollow">编辑</a></div>
+			<div class="clear"></div>
+		
+			<div class="postSeparator"></div>
+		
+			<div class="postTitle">
+				<a id="homepage1_HomePageDays_DaysList_ctl01_DayList_TitleUrl_1" class="postTitle2" href="https://www.cnblogs.com/pilgrim-acc/p/10461365.html">2019-03-02  fileOS</a>
+			</div>
+			<div class="postCon"><div class="c_b_p_desc">摘要: 只有注册用户登录后才能阅读该文。<a href="https://www.cnblogs.com/pilgrim-acc/p/10461365.html" class="c_b_p_desc_readmore">阅读全文</a></div></div>
+			<div class="clear"></div>
+			<div class="postDesc">posted @ 2019-03-02 15:41 pilgrim_Acc 阅读(1) 评论(0)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=10461365" rel="nofollow">编辑</a></div>
+			<div class="clear"></div>
+		
+</div>
+
+
+<div class="day">
+	<div class="dayTitle">
+		<a id="homepage1_HomePageDays_DaysList_ctl02_ImageLink" href="https://www.cnblogs.com/pilgrim-acc/archive/2019/03/01.html">2019年3月1日</a>				  
+	</div>
+
+	
+			<div class="postTitle">
+				<a id="homepage1_HomePageDays_DaysList_ctl02_DayList_TitleUrl_0" class="postTitle2" href="https://www.cnblogs.com/pilgrim-acc/p/10456275.html">2019-3-1 set AND copy</a>
+			</div>
+			<div class="postCon"><div class="c_b_p_desc">摘要: 只有注册用户登录后才能阅读该文。<a href="https://www.cnblogs.com/pilgrim-acc/p/10456275.html" class="c_b_p_desc_readmore">阅读全文</a></div></div>
+			<div class="clear"></div>
+			<div class="postDesc">posted @ 2019-03-01 14:38 pilgrim_Acc 阅读(1) 评论(0)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=10456275" rel="nofollow">编辑</a></div>
+			<div class="clear"></div>
+		
+</div>
+
+
+<div class="day">
+	<div class="dayTitle">
+		<a id="homepage1_HomePageDays_DaysList_ctl03_ImageLink" href="https://www.cnblogs.com/pilgrim-acc/archive/2019/02/28.html">2019年2月28日</a>				  
+	</div>
+
+	
+			<div class="postTitle">
+				<a id="homepage1_HomePageDays_DaysList_ctl03_DayList_TitleUrl_0" class="postTitle2" href="https://www.cnblogs.com/pilgrim-acc/p/10450730.html">2019-2-28 py3 code</a>
+			</div>
+			<div class="postCon"><div class="c_b_p_desc">摘要: 只有注册用户登录后才能阅读该文。<a href="https://www.cnblogs.com/pilgrim-acc/p/10450730.html" class="c_b_p_desc_readmore">阅读全文</a></div></div>
+			<div class="clear"></div>
+			<div class="postDesc">posted @ 2019-02-28 15:33 pilgrim_Acc 阅读(2) 评论(0)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=10450730" rel="nofollow">编辑</a></div>
+			<div class="clear"></div>
+		
+			<div class="postSeparator"></div>
+		
+			<div class="postTitle">
+				<a id="homepage1_HomePageDays_DaysList_ctl03_DayList_TitleUrl_1" class="postTitle2" href="https://www.cnblogs.com/pilgrim-acc/p/10448446.html">2019-2-28 dict operation</a>
+			</div>
+			<div class="postCon"><div class="c_b_p_desc">摘要: 只有注册用户登录后才能阅读该文。<a href="https://www.cnblogs.com/pilgrim-acc/p/10448446.html" class="c_b_p_desc_readmore">阅读全文</a></div></div>
+			<div class="clear"></div>
+			<div class="postDesc">posted @ 2019-02-28 09:53 pilgrim_Acc 阅读(1) 评论(0)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=10448446" rel="nofollow">编辑</a></div>
+			<div class="clear"></div>
+		
+</div>
+
+
+<div class="day">
+	<div class="dayTitle">
+		<a id="homepage1_HomePageDays_DaysList_ctl04_ImageLink" href="https://www.cnblogs.com/pilgrim-acc/archive/2019/02/26.html">2019年2月26日</a>				  
+	</div>
+
+	
+			<div class="postTitle">
+				<a id="homepage1_HomePageDays_DaysList_ctl04_DayList_TitleUrl_0" class="postTitle2" href="https://www.cnblogs.com/pilgrim-acc/p/10440238.html">2019-2-26 int bool和list</a>
+			</div>
+			<div class="postCon"><div class="c_b_p_desc">摘要: 只有注册用户登录后才能阅读该文。<a href="https://www.cnblogs.com/pilgrim-acc/p/10440238.html" class="c_b_p_desc_readmore">阅读全文</a></div></div>
+			<div class="clear"></div>
+			<div class="postDesc">posted @ 2019-02-26 21:18 pilgrim_Acc 阅读(3) 评论(0)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=10440238" rel="nofollow">编辑</a></div>
+			<div class="clear"></div>
+		
+			<div class="postSeparator"></div>
+		
+			<div class="postTitle">
+				<a id="homepage1_HomePageDays_DaysList_ctl04_DayList_TitleUrl_1" class="postTitle2" href="https://www.cnblogs.com/pilgrim-acc/p/10440217.html">变量命名规范及str类型</a>
+			</div>
+			<div class="postCon"><div class="c_b_p_desc">摘要: 变量命名规范： 1.单词之间用_分开 add_num() 2.全局变量，大写 PI,NUMBER() 3.实例变量，以_开头 _example() 4.私有实例变量 __private() 5.普通函数，_动词+名词 _get_name(),_add_age() 6.普通私有函数， __动词+名词 <a href="https://www.cnblogs.com/pilgrim-acc/p/10440217.html" class="c_b_p_desc_readmore">阅读全文</a></div></div>
+			<div class="clear"></div>
+			<div class="postDesc">posted @ 2019-02-26 21:15 pilgrim_Acc 阅读(12) 评论(0)  <a href ="https://i.cnblogs.com/EditPosts.aspx?postid=10440217" rel="nofollow">编辑</a></div>
+			<div class="clear"></div>
+		
+</div>
+
+<div class="topicListFooter"></div>
+
+    
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			
+<!--done-->
+<div class="newsItem">
+<h3 class="catListTitle">公告</h3>
+	<div id="blog-news"></div><script type="text/javascript">loadBlogNews();</script>
+</div>
+
+			<div id="blog-calendar" style="display:none"></div><script type="text/javascript">loadBlogDefaultCalendar();</script>
+			
+			<div id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div><script type="text/javascript">loadBlogSideColumn();</script>
+			</div>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		
+<!--done-->
+Copyright &copy;2019 pilgrim_Acc
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+</body>
+</html>
