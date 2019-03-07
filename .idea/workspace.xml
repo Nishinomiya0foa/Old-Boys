@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b54550ed-251e-4610-92d9-57a2a1e10d81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Old Boys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Old Boys.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/03_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/04_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/05_example_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/file" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day13/01_last_homework_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/day13/01_last_homework_database.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day13/employee_data" beforeDir="false" afterPath="$PROJECT_DIR$/day13/employee_data" afterDir="false" />
@@ -28,10 +30,13 @@
     <SUITE FILE_PATH="coverage/Old_Boys$frame.coverage" NAME="frame Coverage Results" MODIFIED="1551522972640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
     <SUITE FILE_PATH="coverage/Old_Boys$01_namename.coverage" NAME="01 namename Coverage Results" MODIFIED="1551063621399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/Old_Boys$02_default_canshu.coverage" NAME="02 default canshu Coverage Results" MODIFIED="1551529623416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
-    <SUITE FILE_PATH="coverage/Old_Boys$01_last_homework_database.coverage" NAME="01_last_homework_database Coverage Results" MODIFIED="1551864203546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/Old_Boys$05_example_generator.coverage" NAME="05_example_generator Coverage Results" MODIFIED="1551946070930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/Old_Boys$01_last_homework_database.coverage" NAME="01_last_homework_database Coverage Results" MODIFIED="1551930372260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
     <SUITE FILE_PATH="coverage/Old_Boys$02_decorator.coverage" NAME="02_decorator Coverage Results" MODIFIED="1551754897736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
     <SUITE FILE_PATH="coverage/Old_Boys$03_closure.coverage" NAME="03 closure Coverage Results" MODIFIED="1551669678262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
     <SUITE FILE_PATH="coverage/Old_Boys$02_py3.coverage" NAME="02 py3 Coverage Results" MODIFIED="1551334451180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/Old_Boys$03_iterator.coverage" NAME="03_iterator Coverage Results" MODIFIED="1551942878453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/Old_Boys$04_generator.coverage" NAME="04_generator Coverage Results" MODIFIED="1551944520733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
     <SUITE FILE_PATH="coverage/Old_Boys$03_coding.coverage" NAME="03 coding Coverage Results" MODIFIED="1551334573014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
     <SUITE FILE_PATH="coverage/Old_Boys$01_last_homework__1_.coverage" NAME="01_last_homework (1) Coverage Results" MODIFIED="1551768466617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12" />
     <SUITE FILE_PATH="coverage/Old_Boys$01_last_homework.coverage" NAME="01_last_homework Coverage Results" MODIFIED="1551707323810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
@@ -50,27 +55,29 @@
     <session id="1846865399">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.34" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="bak" value="2" />
+          <entry key="bak" value="4" />
           <entry key="before" value="3" />
           <entry key="cache_page" value="3" />
-          <entry key="employee_data" value="5" />
+          <entry key="employee_data" value="8" />
+          <entry key="file" value="1" />
           <entry key="id_pwd" value="2" />
           <entry key="md" value="2" />
-          <entry key="py" value="104" />
+          <entry key="py" value="110" />
           <entry key="pyi" value="1" />
           <entry key="thisisafile" value="3" />
           <entry key="txt" value="7" />
@@ -80,20 +87,22 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="104" />
+          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="Python" value="110" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="54" />
+          <entry key="bak" value="14" />
           <entry key="before" value="51" />
           <entry key="cache_page" value="1" />
           <entry key="dummy" value="11" />
-          <entry key="employee_data" value="1" />
+          <entry key="employee_data" value="11" />
+          <entry key="file" value="172" />
           <entry key="id_pwd" value="14" />
-          <entry key="py" value="35534" />
+          <entry key="py" value="39130" />
           <entry key="thisisafile" value="13" />
           <entry key="txt" value="1" />
           <entry key="used_func" value="1" />
@@ -101,8 +110,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="93" />
-          <entry key="Python" value="35588" />
+          <entry key="PLAIN_TEXT" value="289" />
+          <entry key="Python" value="39184" />
         </counts>
       </usages-collector>
     </session>
@@ -112,22 +121,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day13/01_last_homework_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="130" column="60" selection-start-line="130" selection-start-column="60" selection-end-line="130" selection-end-column="60" />
+            <state relative-caret-position="394">
+              <caret line="136" column="60" selection-start-line="136" selection-start-column="60" selection-end-line="136" selection-end-column="60" />
               <folding>
                 <element signature="e#0#404#1" />
-                <element signature="e#3296#3769#0" />
-                <marker date="1551864484044" expanded="true" signature="405:5114" ph="..." />
-                <marker date="1551864484044" expanded="true" signature="1941:3765" ph="..." />
-                <marker date="1551864484044" expanded="false" signature="1973:3246" ph="..." />
-                <marker date="1551864484044" expanded="true" signature="3864:4144" ph="..." />
-                <marker date="1551864484044" expanded="true" signature="4210:4825" ph="..." />
-                <marker date="1551864484044" expanded="true" signature="4210:4902" ph="..." />
-                <marker date="1551864484044" expanded="true" signature="4210:4970" ph="..." />
+                <element signature="e#442#1938#0" />
+                <element signature="e#3296#3765#0" />
+                <element signature="e#3838#4167#0" />
+                <element signature="e#4219#4872#0" />
+                <element signature="e#4870#5958#0" />
+                <element signature="e#6120#6161#0" />
+                <element signature="e#6129#7089#0" />
+                <marker date="1551930435343" expanded="true" signature="405:7582" ph="..." />
+                <marker date="1551930435343" expanded="true" signature="1968:3867" ph="..." />
+                <marker date="1551930435343" expanded="true" signature="2000:3287" ph="..." />
+                <marker date="1551930435343" expanded="true" signature="3966:4244" ph="..." />
+                <marker date="1551930435343" expanded="true" signature="5067:7564" ph="..." />
+                <marker date="1551930435343" expanded="true" signature="6296:6559" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day12/02_decorator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day13/03_iterator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day13/04_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+              <folding>
+                <marker date="1551944686680" expanded="true" signature="172:179" ph="..." />
+                <marker date="1551944686680" expanded="true" signature="172:368" ph="..." />
+                <marker date="1551944686680" expanded="true" signature="407:408" ph="..." />
+                <marker date="1551944686680" expanded="true" signature="407:414" ph="..." />
+                <marker date="1551944686680" expanded="true" signature="596:601" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day13/05_example_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day13/file">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day13/02_review.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -135,8 +210,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day13/employee_data">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -162,8 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day03/01.py" />
-        <option value="$PROJECT_DIR$/day01/test.py" />
         <option value="$PROJECT_DIR$/day03/03 int bool str.py" />
         <option value="$PROJECT_DIR$/day04.py" />
         <option value="$PROJECT_DIR$/day04/01 main.py" />
@@ -208,8 +281,13 @@
         <option value="$PROJECT_DIR$/day11/02_decorator.py" />
         <option value="$PROJECT_DIR$/day12/02_decorator.py" />
         <option value="$PROJECT_DIR$/day13/02_review.py" />
+        <option value="$PROJECT_DIR$/day13/employee_data.bak" />
         <option value="$PROJECT_DIR$/day13/employee_data" />
         <option value="$PROJECT_DIR$/day13/01_last_homework_database.py" />
+        <option value="$PROJECT_DIR$/day13/03_iterator.py" />
+        <option value="$PROJECT_DIR$/day13/04_generator.py" />
+        <option value="$PROJECT_DIR$/day13/05_example_generator.py" />
+        <option value="$PROJECT_DIR$/day13/file" />
       </list>
     </option>
   </component>
@@ -219,9 +297,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="246" />
-    <option name="y" value="59" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="919" />
+    <option name="y" value="31" />
     <option name="width" value="1072" />
     <option name="height" value="1032" />
   </component>
@@ -237,26 +315,6 @@
             <path>
               <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
               <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
-              <item name="day09" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
-              <item name="day10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
-              <item name="day11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
-              <item name="day12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
@@ -290,51 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_last_homework_database">
-    <configuration name="01_last_homework (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Old Boys" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day12/01_last_homework.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01_last_homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Old Boys" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day11/01_last_homework.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.05_example_generator">
     <configuration name="01_last_homework_database" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Old Boys" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -379,7 +393,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Old Boys" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,12 +401,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day11/02_decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day13/03_iterator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Old Boys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day13/04_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_example_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Old Boys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day13/05_example_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -402,19 +460,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01_last_homework" />
-      <item itemvalue="Python.02_decorator" />
-      <item itemvalue="Python.01_last_homework (1)" />
       <item itemvalue="Python.02_decorator (1)" />
       <item itemvalue="Python.01_last_homework_database" />
+      <item itemvalue="Python.03_iterator" />
+      <item itemvalue="Python.04_generator" />
+      <item itemvalue="Python.05_example_generator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_example_generator" />
+        <item itemvalue="Python.04_generator" />
+        <item itemvalue="Python.03_iterator" />
         <item itemvalue="Python.01_last_homework_database" />
         <item itemvalue="Python.02_decorator (1)" />
-        <item itemvalue="Python.01_last_homework (1)" />
-        <item itemvalue="Python.02_decorator" />
-        <item itemvalue="Python.01_last_homework" />
       </list>
     </recent_temporary>
   </component>
@@ -432,22 +490,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="919" y="31" width="1072" height="1032" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4948148" visible="true" weight="0.11695279" />
-      <window_info id="Structure" order="1" sideWeight="0.5051852" side_tool="true" weight="0.14806867" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4934877" visible="true" weight="0.19238476" />
+      <window_info id="Structure" order="1" sideWeight="0.5065123" side_tool="true" weight="0.11856223" />
       <window_info id="Favorites" order="2" sideWeight="0.50084317" side_tool="true" weight="0.15306123" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946353" weight="0.32918552" />
-      <window_info anchor="bottom" x="0" y="345" width="1536" height="173" id="Run" order="2" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.073529415" />
+      <window_info anchor="bottom" x="0" y="345" width="1536" height="173" id="Run" order="2" sideWeight="0.5005365" side_tool="true" visible="true" weight="0.35334873" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.3970588" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946353" weight="0.32918552" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49624464" weight="0.32579187" />
@@ -465,22 +523,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day07/02 review and data_tpye.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day08/thisisafile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day09/study plan" />
-    <entry file="file://$PROJECT_DIR$/day09/test" />
     <entry file="file://$PROJECT_DIR$/day09/test1.txt" />
     <entry file="file://$PROJECT_DIR$/day09/test.txt" />
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1367734459/builtins.py" />
@@ -532,13 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day07/01 SET and COPY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1687">
-          <caret line="73" selection-start-line="73" selection-end-line="75" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -637,20 +672,6 @@
     <entry file="file://F:/oldboys/Lib/genericpath.py" />
     <entry file="file://$PROJECT_DIR$/day12/01_last_homework.py" />
     <entry file="file://$PROJECT_DIR$/day13.py" />
-    <entry file="file://$PROJECT_DIR$/day12/02_decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2820">
-          <caret line="100" column="7" selection-start-line="100" selection-start-column="7" selection-end-line="100" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day13/02_review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day09/02 default canshu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -692,30 +713,95 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day13/employee_data.bak">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/02_review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day13/employee_data">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="60">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day13/01_last_homework_database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="130" column="60" selection-start-line="130" selection-start-column="60" selection-end-line="130" selection-end-column="60" />
+        <state relative-caret-position="394">
+          <caret line="136" column="60" selection-start-line="136" selection-start-column="60" selection-end-line="136" selection-end-column="60" />
           <folding>
             <element signature="e#0#404#1" />
-            <element signature="e#3296#3769#0" />
-            <marker date="1551864484044" expanded="true" signature="405:5114" ph="..." />
-            <marker date="1551864484044" expanded="true" signature="1941:3765" ph="..." />
-            <marker date="1551864484044" expanded="false" signature="1973:3246" ph="..." />
-            <marker date="1551864484044" expanded="true" signature="3864:4144" ph="..." />
-            <marker date="1551864484044" expanded="true" signature="4210:4825" ph="..." />
-            <marker date="1551864484044" expanded="true" signature="4210:4902" ph="..." />
-            <marker date="1551864484044" expanded="true" signature="4210:4970" ph="..." />
+            <element signature="e#442#1938#0" />
+            <element signature="e#3296#3765#0" />
+            <element signature="e#3838#4167#0" />
+            <element signature="e#4219#4872#0" />
+            <element signature="e#4870#5958#0" />
+            <element signature="e#6120#6161#0" />
+            <element signature="e#6129#7089#0" />
+            <marker date="1551930435343" expanded="true" signature="405:7582" ph="..." />
+            <marker date="1551930435343" expanded="true" signature="1968:3867" ph="..." />
+            <marker date="1551930435343" expanded="true" signature="2000:3287" ph="..." />
+            <marker date="1551930435343" expanded="true" signature="3966:4244" ph="..." />
+            <marker date="1551930435343" expanded="true" signature="5067:7564" ph="..." />
+            <marker date="1551930435343" expanded="true" signature="6296:6559" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/02_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/01 SET and COPY.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/03_iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/04_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+          <folding>
+            <marker date="1551944686680" expanded="true" signature="172:179" ph="..." />
+            <marker date="1551944686680" expanded="true" signature="172:368" ph="..." />
+            <marker date="1551944686680" expanded="true" signature="407:408" ph="..." />
+            <marker date="1551944686680" expanded="true" signature="407:414" ph="..." />
+            <marker date="1551944686680" expanded="true" signature="596:601" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day13/05_example_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
