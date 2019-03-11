@@ -16,21 +16,31 @@ def test():
     for i in range(4):
         yield i
 g=test()
-for n in [1,10,5]:  # n为1或10
+for n in [1,10, 5]:  # n为1或10
+    """由于未调用时，生成器表达式不会执行。拆开来看"""
     g=(add(n,i) for i in g)  # g = (add(n,i) for i in
 
 # n = 1
 # g = (add(n,i) for i in g)
 # n = 10
-# g=(add(n,i) for i in (add(n,i) for i in (0,1,2,3)))  # 可以装化为这种形式
-# g = (add(n,i) for i in (10, 11, 12, 13))
-# g = (20, 21, 22, 23)
+# g = (add(10, i) for i in (add(10,i) for i in (0, 1, 2, 3)))
+#
+# 10 11 12 13
+# 20 21 22 23
+
 
 # 如果 for n in [1,10,5]
-#n = 10 时
-g=(add(n,i) for i in (add(n,i) for i in g))
-# n = 5 时
-g = (add(n,i) for i in (add(n,i) for i in (add(n,i) for i in (0,1,2,3))))
+# n = 1
+# g = (add(n,i) for i in g)
+# n = 10
+# g = (add(10, i) for i in (add(10,i) for i in g))
+# n = 5
+# g = (add(5, i) for i in (add(5,i) for i in (add(n,i) for i in (0, 1, 2, 3))))
+#
+# 5 6 7 8
+# 10 11 12 13
+# 15 16
+
 
 
 
