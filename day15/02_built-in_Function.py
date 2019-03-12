@@ -2,6 +2,7 @@
 内置函数，总共68个，分为：
     1.作用域相关
     2.迭代器/生成器相关
+    3.其他
 """
 # 作用域相关
 # print(locals())  # 返回局部作用域中所有命名
@@ -59,7 +60,7 @@
 # eval
 # print(eval('1+2+3+4'))  # 执行字符串类型，其中为代码;有返回值。不安全！
 
-# compile
+# compile  # 编译字符串类型的代码
 
 """基础数据类型相关"""
 # complex  复数 ----实部+虚部 如： 1+2i
@@ -77,16 +78,16 @@
 #           除余方法;div除法；mod取余;  返回
 # print(divmod(10,3))
 
-# round(float, a)  ---- 精确小数
+# round(float, a)  ---- 精确小数位数
 # print(round(3.17237, 4))
 
 # pow(a,b)  ----返回a的b次幂
 # pow(a,b,c)  ----返回a的b次幂对c取余的值
 
 # sum(iterable, obj)  ---- 返回iterable的迭代值，再加上obj
+# print(sum([1,2,3],6))
 
 # min max  key可以指定按照何种方法来找
-print(min(1,2,3,-4, key=abs))
-
-print(1 or True)
+# print(min(1,2,3,-4, key=abs))
+# print(1 or True)
 

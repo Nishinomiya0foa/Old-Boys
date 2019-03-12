@@ -57,3 +57,18 @@ unicode utf-8 gbk编码之间的关系：
 #         lis2.append(i)
 # lis = lis2
 # print(lis)
+
+""" 现有两个元组(('a'),('b')),(('c'),('d'))，请使用python中匿名函数生成列表[{'a':'c'},{'b':'d'}]"""
+
+# 下列结果是：
+# d = lambda p:p*2
+# t = lambda p:p*3
+# x = 2
+# x = d(x)
+# x = t(x)
+# x = d(x)
+# print(x)
+
+# def multipliers():
+#     return [lambda x:i*x for i in range(4)]  # 返回时，for循环已经全部执行完毕；列表推导式
+# print([m(2) for m in multipliers()])
