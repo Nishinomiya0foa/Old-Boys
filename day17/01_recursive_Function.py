@@ -17,3 +17,22 @@ def recu(n):
         return recu(n+1) + 2    # 如果n满足这个elif条件，进到return时，只会执行到recu(n+1)，就会继续进行recu()函数的调用了
                                 # 而不会执行return，或者后面的+2
                                 # 后续，返回时会再依次返回
+
+# 斐波那契,返回第n位的值
+# 0 1 1 2 3 5 8 13 21
+def feb(n):
+    if n == 2:
+        return 1
+    elif n==1:
+        return 0
+    else:
+        return feb(n-1) + feb(n-2)
+
+print(feb(17))
+
+# 分析 分开计算
+# n = 5
+# return feb(5-1) + feb(5-2)  -> return feb(4) + feb(3)
+# return feb(4-1) + feb(4-2)  ->  return feb(3) + feb(2)  -> return feb(3) + 1
+# return feb(3-1) + feb(3-2)  -> return 1+ 1
+
