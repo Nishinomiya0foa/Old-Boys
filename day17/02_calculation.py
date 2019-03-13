@@ -7,7 +7,7 @@
 # 二分查找算法  必须处理有序的列表
 
 # 使用二分查找法 查找到66的索引值
-l = [1,2,3,4,5,6,7,8,9,10,11,22,33,44,55,66,77,88,99,111,122]
+l = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
 # 这样找到的索引值肯定为0，这是因为在递归调用的过程中，随着函数被切片，索引顺序已经被破坏了
 # def find_num(l,aim):
 #     mid_index =len(l)//2
@@ -49,3 +49,10 @@ def jiecheng(n):
     else:
         return 1
 print(jiecheng(6))
+
+print(l.index(19))
+
+def upper_first(s:str):
+    return s.capitalize()
+
+print(upper_first('hanmeimei'))
