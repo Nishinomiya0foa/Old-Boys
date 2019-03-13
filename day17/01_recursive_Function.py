@@ -1,4 +1,5 @@
 """递归函数"""
+# 要先看懂递归
 
 # 在函数中调用自身函数
 
@@ -20,15 +21,17 @@ def recu(n):
 
 # 斐波那契,返回第n位的值
 # 0 1 1 2 3 5 8 13 21
+a = []
 def feb(n):
     if n == 2:
         return 1
-    elif n==1:
+    elif n == 1:
         return 0
     else:
         return feb(n-1) + feb(n-2)
 
-print(feb(17))
+
+print(feb(5))
 
 # 分析 分开计算
 # n = 5
