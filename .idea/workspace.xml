@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b54550ed-251e-4610-92d9-57a2a1e10d81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day17/02_calculation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Old Boys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Old Boys.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day17/01_recursive_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/day17/01_recursive_Function.py" afterDir="false" />
-    </list>
+    <list default="true" id="b54550ed-251e-4610-92d9-57a2a1e10d81" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +59,7 @@
     <session id="1846865399">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -140,7 +134,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day17/02_calculation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="1500">
               <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
               <folding>
                 <marker date="1552469262524" expanded="true" signature="599:600" ph="..." />
@@ -447,7 +441,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1064" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4934877" visible="true" weight="0.112660944" />
@@ -455,7 +449,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.50084317" side_tool="true" weight="0.15306123" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946353" weight="0.32918552" />
-      <window_info active="true" anchor="bottom" x="0" y="345" width="1536" height="173" id="Run" order="2" sideWeight="0.5037554" side_tool="true" visible="true" weight="0.3964365" />
+      <window_info anchor="bottom" x="0" y="345" width="1536" height="173" id="Run" order="2" sideWeight="0.5037554" side_tool="true" weight="0.3964365" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49624464" weight="0.3964365" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -740,7 +734,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day17/02_calculation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="1500">
           <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
           <folding>
             <marker date="1552469262524" expanded="true" signature="599:600" ph="..." />
