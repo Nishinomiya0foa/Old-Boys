@@ -15,7 +15,7 @@ import os
 # os.remove(path)  # 删除一个文件
 # os.renames(old, new)  # 重命名old文件，以new命名
 
-# print(os.name)  # 输出当前操作系统类型 nt  posix
+# print(os.name)  # 返回当前操作系统类型 nt  posix
 
 # os.system(command)  #执行系统命令。 直接打印
 # ret = os.popen(command).read()  # 执行系统命令, 有返回值

@@ -55,7 +55,7 @@
 # print(d['k1'])
 
 """ Counter 计数器"""
-# from collections import Counter
-# l = ['a','a','b','bb','ccc']
-# c = Counter(l)  # 返回l内各元素出现的次数 Counter类型
-# print(c)
+from collections import Counter
+l = ['a','a','b','bb','ccc']
+c = Counter(l)  # 返回l内各元素出现的次数 Counter类型
+print(c)

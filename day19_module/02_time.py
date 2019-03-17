@@ -58,17 +58,17 @@ import time
 """时间戳与结构化时间"""
 # t = time.time()  # t是时间戳
 # # localtime() 用于将 时间戳 -> 结构化时间
-
+#
 # print(time.localtime(t))  # 本地的结构化时间
 # print(time.gmtime(t))  # 格林尼治的结构化时间
-
+#
 # mktime()  结构化时间 -> 时间戳
 # l = time.localtime()  # l是结构化时间
 # print(time.mktime(l))  #
 
+"""格式化时间与结构化时间"""
 # strptime(time, format)  # 格式化时间 -》 结构化时间
-p = time.strptime('2019.3.16', '%Y.%m.%d')  # p是结构化时间
-
-f = time.strftime('%Y{}%m{}%d'.replace('{}', '-'), p)  # f是格式化时间
-print(f)
+# p = time.strptime('2019.3.16', '%Y.%m.%d')  # p是结构化时间
+# f = time.strftime('%Y{}%m{}%d'.replace('{}', '-'), p)  # f是格式化时间
+# print(f)
 
