@@ -40,4 +40,6 @@ except IndexError:
     print('索引错误')
 else:
     print("No Error")
+finally:
+    print('关闭文件')
 print('Hello World')
