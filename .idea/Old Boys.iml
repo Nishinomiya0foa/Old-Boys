@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/day21" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/legal_normal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day23_class/CourseManage" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6 (oldboys)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

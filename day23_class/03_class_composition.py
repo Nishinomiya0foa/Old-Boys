@@ -108,3 +108,39 @@ print(a.c_ring())
 
 
 # 面向对象的三大特性：集成 多态 封装
+
+class Birth:
+    def __init__(self, year, month, day):
+        self.year = year
+        self.month = month
+        self.day = day
+
+
+class Course:  # 创建Couse的命名空间
+    def __init__(self, teacher, subject, price):  # __init__放入命名空间
+        self.teacher = teacher  # 在实例的命名空间
+        self.object = subject
+        self.price = price
+
+    language = 'CHN'  # 静态属性  # language放入命名空间；language在类命名空间中
+
+    def func(self):  # 方法  func放入命名空间
+        pass
+
+
+class Teacher:
+    def __init__(self, name, gender, subject,birth):
+        self.name = name
+        self.gender = gender
+        self.subject = subject
+        self.birthday = birth
+        self.course = Course('huang', 'code', 18990)  # 可以直接这儿实例化
+
+
+xiaoming_b = Birth(2019,3,21)
+# course = Course('huang', 'code', 18990)  # 也可以这儿传参
+xiaoming = Teacher('黄晓明', 'MALE', 'Python', xiaoming_b)
+print(xiaoming.birthday.month)
+print(xiaoming.course.price)
+print(xiaoming.course.language)
+
