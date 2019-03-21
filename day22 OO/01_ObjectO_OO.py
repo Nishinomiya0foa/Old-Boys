@@ -11,13 +11,14 @@
 
 # 基本结构
 class Person:  # Person类名：操作属性，查看属性  ---- 类名
-    country = 'China'   # 创造类中全局属性,类属性，即静态属性，静态属性无法在外部更改；所有对象都拥有
+    country = 'China'   # 创造类中全局属性,类属性，即静态属性，静态属性无法在外部更改；所有实例对象都拥有这个属性
+
     def __init__(self, *args):  # 调用这个类时，会自动调用__init__()方法；self是一个必须传递的参数  ---- 初始化方法
                                                                         #                           ---- self是对象，必须传
         # 可以把self看做系统赠送免费使用的大字典，只能类里面用，接收和传递参数
         self.name = args[0]  # name -- 属性； 把args[0]的值赋值给name
         self.age = args[1]
-        # pass
+
     def walk(self,n):       # ---- 方法，一般情况下，必须传self参数，self必须为第一个。之后可以传其他参数
         print('{}走啊。再走{}步'.format(self.name, n))
     aaa = 'aa'

@@ -107,7 +107,7 @@ print(a.c_ring())
 # 组合实现
 
 
-# 面向对象的三大特性：集成 多态 封装
+# 面向对象的三大特性：继承 多态 封装
 
 class Birth:
     def __init__(self, year, month, day):

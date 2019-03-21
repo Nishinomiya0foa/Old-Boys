@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b54550ed-251e-4610-92d9-57a2a1e10d81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/codes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/codes/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/codes/new_build_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/codes/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/db/id_pwd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_class/CourseManage/db/info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24/1_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Old Boys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Old Boys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_3features/2_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_3features/3_single_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_3features/4_multi_Inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/glance/cmd/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/day21/glance/cmd/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day22 OO/01_ObjectO_OO.py" beforeDir="false" afterPath="$PROJECT_DIR$/day22 OO/01_ObjectO_OO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day23_class/03_class_composition.py" beforeDir="false" afterPath="$PROJECT_DIR$/day23_class/03_class_composition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23_class/CourseManage/codes/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23_class/CourseManage/codes/new_build_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23_class/CourseManage/codes/set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day24/1_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/day24_3features/1_review.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,8 +70,10 @@
     <SUITE FILE_PATH="coverage/Old_Boys$02_importent_built_in_Function.coverage" NAME="02_importent_built-in_Function Coverage Results" MODIFIED="1552395400499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
     <SUITE FILE_PATH="coverage/Old_Boys$01_module.coverage" NAME="01_module Coverage Results" MODIFIED="1552791248677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20_import" />
     <SUITE FILE_PATH="coverage/Old_Boys$02_exception.coverage" NAME="02_exception Coverage Results" MODIFIED="1552972796788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21" />
+    <SUITE FILE_PATH="coverage/Old_Boys$3_single_Inheritance.coverage" NAME="3_single_Inheritance Coverage Results" MODIFIED="1553151784089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day24_3features" />
     <SUITE FILE_PATH="coverage/Old_Boys$02_decorator.coverage" NAME="02_decorator Coverage Results" MODIFIED="1551754897736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
     <SUITE FILE_PATH="coverage/Old_Boys$02_exercise.coverage" NAME="02_exercise Coverage Results" MODIFIED="1552997297328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22 OO" />
+    <SUITE FILE_PATH="coverage/Old_Boys$4_multi_Inheritance.coverage" NAME="4_multi_Inheritance Coverage Results" MODIFIED="1553155248010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day24_3features" />
     <SUITE FILE_PATH="coverage/Old_Boys$03_random.coverage" NAME="03_random Coverage Results" MODIFIED="1552807724322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_module" />
     <SUITE FILE_PATH="coverage/Old_Boys$06_xuliehua.coverage" NAME="06_xuliehua Coverage Results" MODIFIED="1552742045185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_module" />
     <SUITE FILE_PATH="coverage/Old_Boys$01_review_and_homework.coverage" NAME="01_review_and_homework Coverage Results" MODIFIED="1552024786498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15" />
@@ -88,13 +89,15 @@
     <SUITE FILE_PATH="coverage/Old_Boys$03_generator_3.coverage" NAME="03_generator_3 Coverage Results" MODIFIED="1552012128329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
     <SUITE FILE_PATH="coverage/Old_Boys$04_tuidaoshi.coverage" NAME="04_tuidaoshi Coverage Results" MODIFIED="1552017163064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
     <SUITE FILE_PATH="coverage/Old_Boys$01_homework.coverage" NAME="01 homework Coverage Results" MODIFIED="1551316795928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/Old_Boys$courses.coverage" NAME="courses Coverage Results" MODIFIED="1553168146955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day23_class/CourseManage/codes" />
+    <SUITE FILE_PATH="coverage/Old_Boys$2_Inheritance.coverage" NAME="2_Inheritance Coverage Results" MODIFIED="1553133605810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day24_3features" />
     <SUITE FILE_PATH="coverage/Old_Boys$02_str_use_and_for_loop.coverage" NAME="02 str use and for loop Coverage Results" MODIFIED="1551077839325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1846865399">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -103,7 +106,7 @@
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.32" value="1" />
@@ -111,7 +114,7 @@
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -122,10 +125,10 @@
           <entry key="employee_data" value="8" />
           <entry key="file" value="1" />
           <entry key="homework" value="1" />
-          <entry key="id_pwd" value="3" />
-          <entry key="info" value="1" />
+          <entry key="id_pwd" value="4" />
+          <entry key="info" value="2" />
           <entry key="md" value="2" />
-          <entry key="py" value="194" />
+          <entry key="py" value="213" />
           <entry key="pyi" value="2" />
           <entry key="thisisafile" value="3" />
           <entry key="txt" value="7" />
@@ -135,8 +138,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Python" value="194" />
+          <entry key="PLAIN_TEXT" value="38" />
+          <entry key="Python" value="213" />
           <entry key="PythonStub" value="2" />
         </counts>
       </usages-collector>
@@ -151,7 +154,7 @@
           <entry key="file" value="172" />
           <entry key="homework" value="85" />
           <entry key="id_pwd" value="14" />
-          <entry key="py" value="60919" />
+          <entry key="py" value="63510" />
           <entry key="thisisafile" value="13" />
           <entry key="txt" value="1" />
           <entry key="used_func" value="1" />
@@ -160,7 +163,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="400" />
-          <entry key="Python" value="60973" />
+          <entry key="Python" value="63564" />
         </counts>
       </usages-collector>
     </session>
@@ -170,103 +173,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day23_class/02_namespace.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="12" />
-              <folding>
-                <marker date="1552999845234" expanded="true" signature="47:52" ph="..." />
-                <marker date="1552999845234" expanded="true" signature="728:735" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day22 OO/02_exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-              <folding>
-                <marker date="1552995726518" expanded="true" signature="22:27" ph="..." />
-                <marker date="1552995726518" expanded="true" signature="538:1067" ph="..." />
-                <marker date="1552995726518" expanded="true" signature="1252:1257" ph="..." />
-                <marker date="1552995726518" expanded="true" signature="1561:1566" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day23_class/03_class_composition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3424">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <marker date="1553045689553" expanded="true" signature="2792:2797" ph="..." />
-                <marker date="1553045689553" expanded="true" signature="3241:3246" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state>
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
-                <marker date="1553051142037" expanded="true" signature="13:18" ph="..." />
-                <marker date="1553051142037" expanded="true" signature="119:124" ph="..." />
-                <marker date="1553051142037" expanded="true" signature="314:319" ph="..." />
-                <marker date="1553051142037" expanded="true" signature="488:493" ph="..." />
-                <marker date="1553051142037" expanded="true" signature="648:653" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/set.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/new_build_user.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-              <folding>
-                <marker date="1553058327545" expanded="true" signature="649:785" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day24/1_review.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <marker date="1553060104077" expanded="true" signature="40:45" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1553168656031" expanded="true" signature="13:129" ph="..." />
+                <marker date="1553168656031" expanded="true" signature="142:147" ph="..." />
+                <marker date="1553168656031" expanded="true" signature="269:274" ph="..." />
+                <marker date="1553168656031" expanded="true" signature="517:522" ph="..." />
+                <marker date="1553168656031" expanded="true" signature="697:702" ph="..." />
+                <marker date="1553168656031" expanded="true" signature="870:875" ph="..." />
+                <marker date="1553168656031" expanded="true" signature="1013:2116" ph="..." />
+                <marker date="1553168656031" expanded="true" signature="2115:2116" ph="..." />
               </folding>
             </state>
           </provider>
@@ -299,10 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day14/02_generator_2.py" />
-        <option value="$PROJECT_DIR$/day15/homework" />
-        <option value="$PROJECT_DIR$/day15/01_review_and_homework.py" />
-        <option value="$PROJECT_DIR$/interview.py" />
         <option value="$PROJECT_DIR$/day15/02_built-in_Function.py" />
         <option value="$PROJECT_DIR$/day16/01_built-in_Function.py" />
         <option value="$PROJECT_DIR$/day16/02_importent_built-in_Function.py" />
@@ -326,7 +242,6 @@
         <option value="$PROJECT_DIR$/day21/01_review.py" />
         <option value="$PROJECT_DIR$/day21/glance/api/policy.py" />
         <option value="$PROJECT_DIR$/day21/glance/api/versions.py" />
-        <option value="$PROJECT_DIR$/day21/glance/cmd/manage.py" />
         <option value="$PROJECT_DIR$/day21/glance/db/models.py" />
         <option value="$PROJECT_DIR$/day21/glance/__init__.py" />
         <option value="$PROJECT_DIR$/day21/glance/cmd/__init__.py" />
@@ -342,14 +257,19 @@
         <option value="$PROJECT_DIR$/day21/02_exception.py" />
         <option value="$PROJECT_DIR$/day22 OO/02_exercise.py" />
         <option value="$PROJECT_DIR$/day23_class/01_review.py" />
-        <option value="$PROJECT_DIR$/day22 OO/01_ObjectO_OO.py" />
         <option value="$PROJECT_DIR$/day23_class/02_namespace.py" />
-        <option value="$PROJECT_DIR$/day23_class/03_class_composition.py" />
-        <option value="$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py" />
-        <option value="$PROJECT_DIR$/day23_class/CourseManage/codes/manage.py" />
         <option value="$PROJECT_DIR$/day23_class/CourseManage/codes/set.py" />
         <option value="$PROJECT_DIR$/day23_class/CourseManage/codes/new_build_user.py" />
         <option value="$PROJECT_DIR$/day24/1_review.py" />
+        <option value="$PROJECT_DIR$/day24/2_Inheritance.py" />
+        <option value="$PROJECT_DIR$/day24_3features/3_single_Inheritance.py" />
+        <option value="$PROJECT_DIR$/day24_3features/2_Inheritance.py" />
+        <option value="$PROJECT_DIR$/day24_3features/4_multi_Inheritance.py" />
+        <option value="$PROJECT_DIR$/day22 OO/01_ObjectO_OO.py" />
+        <option value="$PROJECT_DIR$/day23_class/03_class_composition.py" />
+        <option value="$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py" />
+        <option value="$PROJECT_DIR$/day23_class/CourseManage/codes/manage.py" />
+        <option value="$PROJECT_DIR$/day21/glance/cmd/manage.py" />
       </list>
     </option>
   </component>
@@ -360,10 +280,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="124" />
-    <option name="y" value="110" />
-    <option name="width" value="1075" />
-    <option name="height" value="1035" />
+    <option name="x" value="1040" />
+    <option name="y" value="89" />
+    <option name="width" value="1072" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -382,7 +302,27 @@
             <path>
               <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
               <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
-              <item name="legal_normal" type="462c0819:PsiDirectoryNode" />
+              <item name="day23_class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
+              <item name="day23_class" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseManage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
+              <item name="day23_class" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseManage" type="462c0819:PsiDirectoryNode" />
+              <item name="codes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Old-Boys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Old-Boys" type="462c0819:PsiDirectoryNode" />
+              <item name="day23_class" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseManage" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,8 +355,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.new_build_user">
-    <configuration name="02_namespace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.courses">
+    <configuration name="2_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Old Boys" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -424,12 +364,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day23_class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24_3features" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day23_class/02_namespace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24_3features/2_Inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -438,7 +378,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_class_composition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_single_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Old Boys" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -446,12 +386,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day23_class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24_3features" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day23_class/03_class_composition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24_3features/3_single_Inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -460,7 +400,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_multi_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Old Boys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day24_3features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day24_3features/4_multi_Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="courses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Old Boys" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -473,7 +435,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day23_class/CourseManage/codes/manage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -504,42 +466,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Old Boys" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day23_class/CourseManage/codes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day23_class/CourseManage/codes/set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.02_namespace" />
-      <item itemvalue="Python.03_class_composition" />
-      <item itemvalue="Python.set" />
-      <item itemvalue="Python.manage" />
       <item itemvalue="Python.new_build_user" />
+      <item itemvalue="Python.2_Inheritance" />
+      <item itemvalue="Python.3_single_Inheritance" />
+      <item itemvalue="Python.4_multi_Inheritance" />
+      <item itemvalue="Python.courses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.courses" />
+        <item itemvalue="Python.4_multi_Inheritance" />
+        <item itemvalue="Python.3_single_Inheritance" />
+        <item itemvalue="Python.2_Inheritance" />
         <item itemvalue="Python.new_build_user" />
-        <item itemvalue="Python.manage" />
-        <item itemvalue="Python.set" />
-        <item itemvalue="Python.03_class_composition" />
-        <item itemvalue="Python.02_namespace" />
       </list>
     </recent_temporary>
   </component>
@@ -560,12 +500,12 @@
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4934877" visible="true" weight="0.11302083" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4934877" visible="true" weight="0.11302083" />
       <window_info id="Structure" order="1" sideWeight="0.5065123" side_tool="true" weight="0.11856223" />
       <window_info id="Favorites" order="2" sideWeight="0.50084317" side_tool="true" weight="0.15306123" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946353" weight="0.32918552" />
-      <window_info anchor="bottom" x="0" y="345" width="1536" height="173" id="Run" order="2" sideWeight="0.5037554" side_tool="true" weight="0.26349893" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49895832" weight="0.32829374" />
+      <window_info anchor="bottom" x="0" y="345" width="1536" height="173" id="Run" order="2" sideWeight="0.50104165" side_tool="true" weight="0.32829374" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49624464" weight="0.3964365" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -590,20 +530,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/filename_format.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1367734459/nt.py" />
-    <entry file="file://$PROJECT_DIR$/day19_module/json_test">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day19_module/aaa.dir">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/day19_module/aaa.bak">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -685,13 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day21/glance/cmd/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day21/glance/db/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -742,16 +661,8 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Envs/testvir2/Scripts/oldboys/Lib/ntpath.py" />
-    <entry file="file://$PROJECT_DIR$/legal_normal/core/core1.py" />
     <entry file="file://$PROJECT_DIR$/legal_normal/bin/start.py" />
     <entry file="file://$PROJECT_DIR$/legal_normal/conf/conf.py" />
-    <entry file="file://$PROJECT_DIR$/day21/02_exception.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/legal_normal/legal_normal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -809,39 +720,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day19_module/06_xuliehua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legal_normal/core/core1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/340268195/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2753">
+          <caret line="719" column="6" selection-start-line="719" selection-start-column="6" selection-end-line="719" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day24_3features/1_review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <marker date="1553131147556" expanded="true" signature="40:45" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day24_3features/3_single_Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding>
+            <marker date="1553152031969" expanded="true" signature="126:131" ph="..." />
+            <marker date="1553152031969" expanded="true" signature="330:415" ph="..." />
+            <marker date="1553152031969" expanded="true" signature="527:1349" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day24_3features/2_Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <marker date="1553152349310" expanded="true" signature="142:144" ph="..." />
+            <marker date="1553152349310" expanded="true" signature="240:242" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day21/02_exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day24_3features/4_multi_Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding>
+            <marker date="1553156028503" expanded="false" signature="214:221" ph="..." />
+            <marker date="1553156028503" expanded="true" signature="214:232" ph="..." />
+            <marker date="1553156028503" expanded="true" signature="214:883" ph="..." />
+            <marker date="1553156028503" expanded="true" signature="492:497" ph="..." />
+            <marker date="1553156028503" expanded="true" signature="492:506" ph="..." />
+            <marker date="1553156028503" expanded="true" signature="592:597" ph="..." />
+            <marker date="1553156028503" expanded="true" signature="592:606" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day22 OO/01_ObjectO_OO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day23_class/03_class_composition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3424">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <marker date="1553045689553" expanded="true" signature="2792:2797" ph="..." />
-            <marker date="1553045689553" expanded="true" signature="3241:3246" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day23_class/02_namespace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <marker date="1552999845234" expanded="true" signature="47:52" ph="..." />
-            <marker date="1552999845234" expanded="true" signature="728:735" ph="..." />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day22 OO/02_exercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="420">
+          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
           <folding>
             <marker date="1552995726518" expanded="true" signature="22:27" ph="..." />
             <marker date="1552995726518" expanded="true" signature="538:1067" ph="..." />
@@ -851,66 +813,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day19_module/06_xuliehua.py">
+    <entry file="file://$PROJECT_DIR$/day23_class/02_namespace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        <state relative-caret-position="387">
+          <caret line="65" column="2" lean-forward="true" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <marker date="1552999845234" expanded="true" signature="47:52" ph="..." />
+            <marker date="1552999845234" expanded="true" signature="728:735" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day23_class/03_class_composition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <marker date="1553160210120" expanded="true" signature="2792:2797" ph="..." />
+            <marker date="1553160210120" expanded="true" signature="3241:3246" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/db/info">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py">
+    <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/db/id_pwd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/new_build_user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <marker date="1553051142037" expanded="true" signature="13:18" ph="..." />
-            <marker date="1553051142037" expanded="true" signature="119:124" ph="..." />
-            <marker date="1553051142037" expanded="true" signature="314:319" ph="..." />
-            <marker date="1553051142037" expanded="true" signature="488:493" ph="..." />
-            <marker date="1553051142037" expanded="true" signature="648:653" ph="..." />
-          </folding>
+        <state relative-caret-position="27">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/db/id_pwd">
+    <entry file="file://$PROJECT_DIR$/day21/glance/cmd/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/set.py">
+    <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/courses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day24/1_review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state>
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
-            <marker date="1553060104077" expanded="true" signature="40:45" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day23_class/CourseManage/codes/new_build_user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <marker date="1553058327545" expanded="true" signature="649:785" ph="..." />
+            <marker date="1553168656031" expanded="true" signature="13:129" ph="..." />
+            <marker date="1553168656031" expanded="true" signature="142:147" ph="..." />
+            <marker date="1553168656031" expanded="true" signature="269:274" ph="..." />
+            <marker date="1553168656031" expanded="true" signature="517:522" ph="..." />
+            <marker date="1553168656031" expanded="true" signature="697:702" ph="..." />
+            <marker date="1553168656031" expanded="true" signature="870:875" ph="..." />
+            <marker date="1553168656031" expanded="true" signature="1013:2116" ph="..." />
+            <marker date="1553168656031" expanded="true" signature="2115:2116" ph="..." />
           </folding>
         </state>
       </provider>
