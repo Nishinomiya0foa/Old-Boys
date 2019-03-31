@@ -160,13 +160,49 @@ a()
 #     print(obj.group())
 
 """四个数字 1 2 3 4   能组成多少个互不相同且不重复的三位数，各是多少"""
-num = 0
-for i in range(1,5):
-    for j in range(1, 5):
-        for k in range(1, 5):
-            if i!=j and j!=k and i != k:
-                print(i,j,k,end='|')
-                num += 1
-                if num % 4 == 0:
-                    print('')
-print(num)
+# num = 0
+# for i in range(1,5):
+#     for j in range(1, 5):
+#         for k in range(1, 5):
+#             if i!=j and j!=k and i != k:
+#                 print(i,j,k,end='|')
+#                 num += 1
+#                 if num % 4 == 0:
+#                     print('')
+# print(num)
+
+
+# 0 3 5
+# n = [0,1]
+# for i in range(1):
+#     n.append(n[1]*4+1)
+# print(n)
+# num = []
+# for i in n:
+#     for j in n:
+#         for k in n:
+#             for l in n:
+#                 if i+j+k+l not in num:
+#                     print(i,j,k,l,'--{}'.format(i+j+k+l))
+#                     num.append(i+j+k+l)
+#                 # else:print('重复的：{},{},{},{}--{}'.format(i,j,k,l,i+j+k+l))
+# print(len(num))
+s = [0,1]
+def get_num(n,m=[]):  # 4
+    global s
+    m.append(n)
+    # print(m)
+    # true_n = n - len(dim)  #
+    if n > 2:
+        # print(get_num(n-1)*m[0] + 1)
+        if get_num(n-1)*m[0] + 1 not in s:
+            s.append(get_num(n-1)*m[0] + 1)
+        print(s)
+        return get_num(n-1)*m[0] + 1
+    else:
+        return 1
+
+ss = [0,1]
+ss.append(get_num(5))
+
+print(ss)
