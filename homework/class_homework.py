@@ -150,14 +150,14 @@ a()
 """用什么模块能知道文件夹存在与否? 怎么获取这个文件夹的大小？"""
 # import os
 # print(os.path.exists('fsdfsfs'))
-# print(os.path.getsize('./'))
+# print(os.path.getsize('./')) # 应该去循环这个文件里的所有的文件大小
 
 """写一个匹配手机号的正则语句"""
-# import re
-# s = '18000000000'
-# obj = re.match(r'1[3|5|7|8]\d{9}$', s)
-# if obj:
-#     print(obj.group())
+import re
+s = '13000030000'
+obj = re.match(r'1[3578]\d{9}$', s)
+if obj:
+    print(obj.group())
 
 """四个数字 1 2 3 4   能组成多少个互不相同且不重复的三位数，各是多少"""
 # num = 0
@@ -187,22 +187,61 @@ a()
 #                     num.append(i+j+k+l)
 #                 # else:print('重复的：{},{},{},{}--{}'.format(i,j,k,l,i+j+k+l))
 # print(len(num))
-s = [0,1]
-def get_num(n,m=[]):  # 4
-    global s
-    m.append(n)
-    # print(m)
-    # true_n = n - len(dim)  #
-    if n > 2:
-        # print(get_num(n-1)*m[0] + 1)
-        if get_num(n-1)*m[0] + 1 not in s:
-            s.append(get_num(n-1)*m[0] + 1)
-        print(s)
-        return get_num(n-1)*m[0] + 1
-    else:
-        return 1
 
-ss = [0,1]
-ss.append(get_num(5))
+# s = [0,1]
+# def get_num(n,m=[]):  # 4
+#     global s
+#     m.append(n)
+#     # print(m)
+#     # true_n = n - len(dim)  #
+#     if n > 2:
+#         # print(get_num(n-1)*m[0] + 1)
+#         if get_num(n-1)*m[0] + 1 not in s:
+#             s.append(get_num(n-1)*m[0] + 1)
+#         print(s)
+#         return get_num(n-1)*m[0] + 1
+#     else:
+#         return 1
+#
+# ss = [0,1]
+# ss.append(get_num(5))
+#
+# print(ss)
 
-print(ss)
+"""简述 类 对象 实例化 实例这些名词的含义"""
+# 类。 是一个抽象概念，许多对象的共同属性或方法的集合
+# 对象与实例： 是类的具体对象，与类的关系是“是”的关系，
+# 实例化。 由类创建实例的过程
+
+"""面向对象的三大特性 """
+# 封装：面向对象的思想本身就是封装
+# 继承：单继承和多继承
+# 多态：
+
+
+"""有个类：
+1.初始化10个不同的对象
+2.求最高age的对象的name
+"""
+# import random
+# class Person:
+#     def __init__(self,name,age):
+#         self.name = name
+#         self.age = age
+#
+# name_l = [chr(i) for i in range(97,107)]
+# obj_l = []
+#
+# max_obj = Person('aaa', 0)
+# for i in range(10):
+#     name_l[i] = Person(name_l[i],random.randint(5,55))
+#     obj_l.append(name_l[i])
+#     if name_l[i].age >= max_obj.age:
+#         max_obj = name_l[i]
+# print(max_obj.name,max_obj.age)
+
+
+""""""
+
+
+
