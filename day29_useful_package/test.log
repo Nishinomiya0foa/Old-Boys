@@ -1,0 +1,8 @@
+2019-04-06 09:24:10,681 - root - INFO - info message
+2019-04-06 09:24:10,682 - root - WARNING - warning message
+2019-04-06 09:24:10,682 - root - ERROR - error message
+2019-04-06 09:24:10,682 - root - CRITICAL - critical message
+2019-04-06 09:25:02,745 - 02_logging.py - INFO - info message
+2019-04-06 09:25:02,745 - 02_logging.py - WARNING - warning message
+2019-04-06 09:25:02,745 - 02_logging.py - ERROR - error message
+2019-04-06 09:25:02,746 - 02_logging.py - CRITICAL - critical message

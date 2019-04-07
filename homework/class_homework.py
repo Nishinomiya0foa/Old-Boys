@@ -232,6 +232,7 @@ if obj:
 # name_l = [chr(i) for i in range(97,107)]
 # obj_l = []
 #
+# # 使用max(obj, key=age)
 # max_obj = Person('aaa', 0)
 # for i in range(10):
 #     name_l[i] = Person(name_l[i],random.randint(5,55))
@@ -240,8 +241,55 @@ if obj:
 #         max_obj = name_l[i]
 # print(max_obj.name,max_obj.age)
 
+"""
+ 有Police和Terrorist类
+ Police：name health weapon gender
+ 可以攻击Terrorist
+ 
+ Terrorist：name，health weapon gender
+ 可以攻击Police
+ 
+ 1.实例化两个对象，警察攻击匪徒，匪徒掉血
+"""
+# class People:
+#     def __init__(self, name, health, weapon, gender):
+#         self.name = name
+#         self.health = health
+#         self.weapon = weapon
+#         self.gender = gender
+#
+# class Police(People):
+#     def punish(self, terrorist):
+#         print('{} punished {}'.format(self.name, terrorist.name))
+#         terrorist.health -= 10
+#
+# class Terrorist(People):
+#     def punish(self):
+#         print('{} punished {}'.format(self.name, Police.name))
+#
+# a_sir = Police('asir', 100, 'Gun', 'MALE')
+# stup = Terrorist('stupid', 100, 'Gun', 'MALE')
+#
+# print(stup.health)
+# a_sir.punish(stup)
+# print(stup.health)
 
-""""""
+"""阅读以下代码， 回答：
+1. 面向对象中self指什么
+2. 运行结果是？   为什么？
+"""
+class Base:
+    def f1(self):
+        self.f2()
 
+    def f2(self):
+        print('...')
+
+class Foo(Base):
+    def f2(self):
+        print('9999')
+
+obj = Foo()
+obj.f1()  # 9999
 
 

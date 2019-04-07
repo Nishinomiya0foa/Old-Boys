@@ -1,0 +1,1072 @@
+01 python fullstack s9day01 自我介绍今日内容大纲
+02 python fullstack s9day01 初始计算机系统
+03 python fullstack s9day01 python历史
+04 python fullstack s9day01 python分类
+05 python fullstack s9day01 运行py程序，变量，常量，注释
+06 python fullstack s9day01 基础数据类型初始
+06 python fullstack s9day01 用户交互input
+07 python fullstack s9day01 流程控制语句if
+08 python fullstack s9day01 循环语句while
+09 python fullstack s9day01 如何使用博客园
+01 python fullstack s9day02 昨日内容回顾
+02 python fullstack s9day02 pycharm的安装使用
+03 python fullstack s9day02 作业讲解
+04 python fullstack s9day02 格式化输出%
+05 python fullstack s9day02 格式化输出补充及while else
+06 python fullstack s9day02 初始编码
+07 python fullstack s9day02 运算符
+01 python fullstack s9day03 昨日内容回顾及作业讲解
+02 python fullstack s9day03 str常用操作方法及for循环
+02 python fullstack s9day03 数据类型整体分析
+03 python fullstack s9day03 数据类型int bool讲解及int bool str转化
+04 python fullstack s9day03 str索引切片
+01 python fullstack s9day04 昨日内容回顾及作业讲解
+02 python fullstack s9day04 列表的增删改查以及嵌套
+03 python fullstack s9day04 元祖的嵌套，range，for循环的嵌套
+01 python fullstack s9day5 昨日内容回顾及作业讲解
+02 python fullstack s9day5 dict讲解及增删改查等操作
+03 python fullstack s9day5 dict嵌套及升级作业讲解
+01 python fullstack s9day6 昨日内容回顾及作业讲解
+02 python fullstack s9day6 小知识点汇总及编码进阶
+购物车作业讲解
+01 python fullstack s9day7 集合及深浅copy
+02 python fullstack s9day7 昨日内容回顾及基础数据类型汇总
+01 python fullstack s9day8 文件操作一
+02 python fullstack s9day8 文件操作二
+03 python fullstack s9day8 文件操作三
+04 python fullstack s9day8 文件操作四
+05 python fullstack s9day8 登录注册及编码二
+01 python fullstack s9day9 课程安排
+02 python fullstack s9day9 复习
+03 python fullstack s9day9 初识函数和返回值.mp4
+04 python fullstack s9day9 初识函数参数.mp4
+05 python fullstack s9day9 函数的几个问题
+06 python fullstack s9day9 函数的参数和本章小结
+07 python fullstack s9day9 第一次考试试题讲解
+01 python fullstack s9day10  复习
+03 python fullstack s9day10  命名空间和作用域
+04 python fullstack s9day10 函数的嵌套和作用域链
+05 python fullstack s9day10 闭包
+01 python fullstack s9day11  作业讲解
+02 python fullstack s9day11  作业讲解
+02 python fullstack s9day11 装饰器的初成
+03 python fullstack s9day11 开放封闭原则和装饰器的作用
+04 python fullstack s9day11  装饰器的最终形成和固定格式
+01 python fullstack s9day12  今日概要
+02 python fullstack s9day12  复习
+03 python fullstack s9day12  生成器
+03 python fullstack s9day12 装饰器精讲
+04 python fullstack s9day12  作业讲解
+05 python fullstack s9day12  装饰器进阶内容
+06 python fullstack s9day12  作业
+01 python fullstack s9day13  复习
+02 python fullstack s9day13  迭代器
+03 python fullstack s9day13  生成器
+01 python fullstack s9day14  复习
+02 python fullstack s9day14  生成器函数进阶
+03 python fullstack s9day14  生成器函数进阶实例
+04 python fullstack s9day14  生成器表达式和列表推导式
+05 python fullstack s9day14  各种推导式
+01 python fullstack s9day15  复习和作业讲解
+02 python fullstack s9day15  生成器面试题讲解
+03 python fullstack s9day15  内置函数1
+04 python fullstack s9day15  内置函数2
+试题讲解
+01 python fullstack s9day16  复习
+02 python fullstack s9day16  剩余内置函数
+03 python fullstack s9day16  几个重要的内置函数
+04 python fullstack s9day16 匿名函数
+作业讲解
+01 python fullstack s9day17 作业讲解
+02 python fullstack s9day17 交作业要求以及画流程图
+03 python fullstack s9day17 初识递归——求年龄的例子
+04 python fullstack s9day17 初识算法
+05 python fullstack s9day17 二分查找算法
+01 python fullstack s9day18 递归复习作业讲解
+02 python fullstack s9day18 认识正则表达式
+03 python fullstack s9day18 认识正则表达式实例
+04 python fullstack s9day18 re模块
+01 python fullstack s9day19 正则复习
+02 python fullstack s9day19 collections模块
+03 python fullstack s9day19 time和random模块
+04 python fullstack s9day19 os模块
+05 python fullstack s9day19 sys模块
+01 python fullstack s9day20 序列化模块
+02 python fullstack s9day20 序列化模块2
+03 python fullstack s9day20 模块的导入
+02 python fullstack s9day21 复习和包的初识
+02 python fullstack s9day21包的进阶
+03 python fullstack s9day21 异常处理
+三级菜单
+员工信息表作业讲解
+01 python fullstack s9day22 初识面向对象
+02 python fullstack s9day22 面向对象的交互
+03 python fullstack s9day22 练习
+01 python fullstack s9day23 初识面向对象复习
+02 python fullstack s9day23 类的命名空间
+03 python fullstack s9day23 组合
+04 python fullstack s9day23 组合2
+05 python fullstack s9day23 组合练习
+01 python fullstack s9day24 复习
+02 python fullstack s9day24 初识继承
+03 python fullstack s9day24 单继承
+04 python fullstack s9day24 单继承super
+05 python fullstack s9day24 多继承
+01 python fullstack s9day25 复习
+02 python fullstack s9day25 作业讲解
+03 python fullstack s9day25 接口类
+04 python fullstack s9day25 接口类的多继承
+05 python fullstack s9day25 抽象类
+06 python fullstack s9day25 封装
+01 python fullstack s9day26 作业讲解
+02 python fullstack s9day26 复习
+03 python fullstack s9day26 封装和@property
+04 python fullstack s9day26 静态方法和类方法
+05 python fullstack s9day26 反射
+计算器作业
+01 python fullstack s9day27 复习
+02 python fullstack s9day27 反射
+03 python fullstack s9day27 几个内置方法
+01 python fullstack s9day28 面向对象的进阶
+02 python fullstack s9day28 面向对象进阶实例
+03 python fullstack s9day28 hashilib初识
+04 python fullstack s9day28 hashlib进阶
+05 python fullstack s9day28 学生管理系统作业讲解
+01 python fullstack s9day29 模块 configparse
+02 python fullstack s9day29 logging
+03 python fullstack s9day29 logging(2)
+04 python fullstack s9day29 作业讲解
+05 python fullstack s9day29 作业讲解
+01 python fullstack s9day30 网络基础1
+02 python fullstack s9day30 网络基础2
+03 python fullstack s9day30 基于tcp协议的socket
+01 python fullstack s9day31 复习和认识tcp的长连接
+02 python fullstack s9day31 基于udp的socket服务
+03 python fullstack s9day31 黏包现象
+01 python fullstack s9day32 复习
+02 python fullstack s9day32 基于udp的socket服务
+02 python fullstack s9day32 解决黏包问题的方式1
+03 python fullstack s9day32 struct模块解决黏包问题
+04 python fullstack s9day32 struct模块补充
+05 python fullstack s9day32 strcuct模块定制报头的理论
+06 python fullstack s9day32 struct模块定制报头ftp实践
+07 python fullstack s9day32 关于ftp文件传输的报错
+01 python fullstack s9day33 复习
+02 python fullstack s9day33 hmac的检验客户端合法性和socketserver模块
+03 python fullstack s9day33 socketserver源码分析
+03 python fullstack s9day33 黏包现象
+04 python fullstack s9day33 ftp作业分析
+01 python fullstack s9day34 复习
+02 python fullstack s9day34 ftp1
+03 python fullstack s9day34 ftp2
+04 python fullstack s9day34 ftp3
+01 python fullstack s10 day36 操作系统历史
+02 python fullstack s10 day36 操作系统历史2
+03 python fullstack s10 day36 进程
+01 python fullstack s10 day37 多进程中的方法join
+02 python fullstack s10 day37 多进程的另一种启动方式
+03 python fullstack s10 day37 守护进程和几个常用方法
+04 python fullstack s10 day37 进程锁
+01 python fullstack s10 day38 复习
+02 python fullstack s10 day38 信号量
+03 python fullstack s10 day38 事件
+04 python fullstack s10 day38 事件2
+05 python fullstack s10 day38 初识队列
+06 python fullstack s10 day38 生产者消费者模型
+07 python fullstack s10 day38 joinableQueue解决生产者消费者问题
+01 python fullstack s10 day39 复习和今日概要
+02 python fullstack s10 day39 管道和数据共享
+03 python fullstack s10 day39 进程池原理及效率测试
+04 python fullstack s10 day39 进程池
+05 python fullstack s10 day39 进程池之回调函数
+01 python fullstack s10 day40 复习和回调函数实例
+02 python fullstack s10 day40 线程理论
+03 python fullstack s10 day40 threading模块和基础代码
+04 python fullstack s10 day40 全局解释器锁及threading的其他方法
+01 python fullstack s10 day41 复习
+02 python fullstack s10 day41 守护线程
+03 python fullstack s10 day41 锁
+04 python fullstack s10 day41 事件和信号量
+05 python fullstack s10 day41 条件和定时器
+06 python fullstack s10 day41 队列
+07 python fullstack s10 day41 线程池
+考试题讲解1
+考试题讲解2
+01 python fullstack s10 day42 初识协程
+02 python fullstack s10 day42 协程和gevent模块
+03 python fullstack s10 day42 协程应用
+04 python fullstack s10 day42 IO模型之阻塞与非阻塞
+05 python fullstack s10 day42 IO模型之IO多路复用
+06 python fullstack s10 day42 IO模型之IO多路复用和异步IO模型
+01 python fullstack s9day42数据库概念(1)
+02 python fullstack s9day42数据库介绍
+03 python fullstack s9day42 数据库安装(1)
+04 python fullstack s9day42 数据库安装(2)
+05 python fullstack s9day42 卸载mysql
+06 python fullstack s9day42 上午回顾
+07 python fullstack s9day42 表操作
+08 python fullstack s9day42 表操作后续及数据;类型
+09 python fullstack s9day42 数据操作
+01 python fullstack s9day43回顾
+02 python fullstack s9day43 数据库权限
+03 python fullstack s9day43  修改密码
+04 python fullstack s9day43 单表查询
+05 python fullstack s9day43 多表查询
+06 python fullstack s9day43 子语句查询
+01 python fullstack s9day44 回顾
+02 python fullstack s9day44 其他查询与sql逻辑执行顺序
+03 python fullstack s9day44 5种约束
+04 python fullstack s9day44 表关系
+05 python fullstack s9day44 练习题1
+06 python fullstack s9day44 练习题2
+01 python fullstack s9day45 回顾
+02 python fullstack s9day45 视图,触发器
+03 python fullstack s9day45 存储过程
+04 python fullstack s9day45 事物,锁
+05 python fullstack s9day45 数据备份及正则
+01 python fullstack s9day46 回顾
+02 python fullstack s9day46 存储引擎
+03 python fullstack s9day46 索引(1)
+04 python fullstack s9day46 索引(2)
+01 python fullstack s9day47-前端内容介绍
+02 python fullstack s9day47-web框架的本质
+03 python fullstack s9day47-HTML标签介绍
+04 python fullstack s9day47-常用标签及标签分类
+05 python fullstack s9day47-列表标签
+06 python fullstack s9day47-表格标签和标签的嵌套规则和
+01 python fullstack s9day48-昨日内容回顾
+02 python fullstack s9day48-form表单相关内容
+03 python fullstack s9day48-form表单相关内容详解
+04 python fullstack s9day48-CSS内容介绍
+05 python fullstack s9day48-CSS选择器介绍
+06 python fullstack s9day48-选择器的优先级
+01 python fullstack s9day49-内容回顾
+02 python fullstack s9day49-文字属性
+03 python fullstack s9day49-字体属性
+04 python fullstack s9day49-背景属性
+05 python fullstack s9day49-浮动和清除浮动
+06 python fullstack s9day49-浮动和清除浮动2
+07 python fullstack s9day49-博客页面练习
+01 python fullstack s9day50-CSS属性内容梳理
+02 python fullstack s9day50-商城导航条示例及浮动补充
+01 python fullstack s9day51-内容回顾
+02 python fullstack s9day51-JS介绍
+03 python fullstack s9day51-JS语法及数组相关方法
+04 python fullstack s9day51-JS数组_布尔值_逻辑运算等
+06 python fullstack s9day51-流程控制
+01 python fullstack s9day52-内容回顾
+02 python fullstack s9day52-JS的函数和词法分析
+03 python fullstack s9day52-常用的内置对象和使用方法
+01 python fullstack s9day53-内容复习
+02 python fullstack s9day53-DOM介绍和常用操作1
+03 python fullstack s9day53-事件相关内容
+01 python fullstack s9day54-前情回顾
+02 python fullstack s9day54-jQuery介绍和基本选择器
+03 python fullstack s9day54-jQuery筛选器
+04 python fullstack s9day54-筛选器和作业分解
+01 python fullstack s9day55-内容复习加面试题补充
+02 python fullstack s9day55-样式相关操作
+03 python fullstack s9day55-属性操作及作业分解
+01 python fullstack s9day56-内容复习
+02 python fullstack s9day56-文档操作
+03 python fullstack s9day56-事件相关及批量操作示例
+04 python fullstack s9day56-jQuery补充内容each和data
+01  python fullstack s9day57-复习和周末作业讲解
+02  python fullstack s9day57-Bootstrap内容介绍和响应式原理
+03  python fullstack s9day57-Bootstarp常用样式
+01 python fullstack s9 day58-内容回顾及装饰器复习
+02 ython fullstack s9 day58-Bootstrap和FontAwesome图标使用
+03 ython fullstack s9 day58-Bootstrap常用组件介绍
+04 ython fullstack s9 day58-Bootstrap插件介绍
+01 python fullstack s9 day59-课前补充DOM对象知识点
+02 python fullstack s9 day59-pymysql介绍
+03 python fullstack s9 day59-pymysql版登录示例及SQL注入问题
+04 python fullstack s9 day59-pymysql操作数据库语句
+05 python fullstack s9 day59-pymysql操作数据库2
+06 python fullstack s9 day59-不成功剥皮函数讲解
+01 python fullstack4 day60 今日内容概要
+02 python fullstack4 day60 上节内容回顾以及补充
+03 python fullstack4 day60 MySQL练习题讲解（四）
+04 python fullstack4 day60 MySQL练习题讲解（五）
+05 python fullstack4 day60 MySQL练习题讲解（六）
+06 python fullstack4 day60 MySQL练习题讲解（七）
+07 python fullstack4 day60 MySQL练习题讲解（八）
+08 python fullstack4 day60 MySQL练习题讲解（九）
+09 python fullstack4 day60 MySQL练习题讲解（十）
+10 python fullstack4 day60 MySQL练习题讲解（十一）
+11 python fullstack4 day60 pymysql模块初识以及SQL注入
+12 python fullstack4 day60 pymysql模块操作数据库详细
+13 python fullstack4 day60 pymysql模块使用总结
+14 python fullstack4 day60 今日练习
+01 python fullstack4 day61 今日内容概要
+02 python fullstack4 day61 上节内容回顾以及补充
+03 python fullstack4 day61 用户权限管理设计方案介绍
+04 python fullstack4 day61 MySQL视图
+05 python fullstack4 day61 MySQL触发器
+06 python fullstack4 day61 MySQL函数
+07 python fullstack4 day61 MySQL存储过程（一）
+08 python fullstack4 day61 MySQL存储过程（二）
+09 python fullstack4 day61 MySQL存储过程（三）
+10 python fullstack4 day61 MySQL存储过程（四）
+11 python fullstack4 day61 上述内容总结
+12 python fullstack4 day61 本周作业
+01 python fullstack4 day62 今日内容概要
+02 python fullstack4 day62 内容回顾
+03 python fullstack4 day63 MySQL索引种类
+04 python fullstack4 day63 MySQL索引类型介绍
+05 python fullstack4 day63 MySQL索引名词补充
+06 python fullstack4 day63 MySQL索引之无法命中索引情况
+07 python fullstack4 day63 MySQL索引注意事项
+08 python fullstack4 day63 MySQL执行计划介绍
+09 python fullstack4 day63 MySQL慢日志记录
+10 python fullstack4 day63 MySQL分页性能相关方案（一）
+11 python fullstack4 day63 MySQL分页性能相关方案（二）
+01 python fullstack4 day63 今日内容概要
+02 python fullstack4 day63 面向对象回顾（一）
+03 python fullstack4 day63 面向对象回顾（二）
+04 python fullstack4 day63 面向对象回顾（三）
+05 python fullstack4 day63 ORM框架SQLAlchemy之概要
+06 python fullstack4 day63 ORM框架SQLAlchemy之基本增删改查
+07 python fullstack4 day63 ORM框架SQLAlchemy之子查询（一）
+08 python fullstack4 day63 ORM框架SQLAlchemy之子查询（二）
+09 python fullstack4 day63 ORM框架SQLAlchemy之relationship的使用
+01 python fullstack4 day64 今日内容概要
+02 python fullstack4 day64 内容回顾
+03 python fullstack4 day64 Web框架本质（一）
+04 python fullstack4 day64 Web框架本质（二）
+05 python fullstack4 day64 Web框架本质之基于jinja2模板渲染
+06 python fullstack4 day64 Web框架本质内容梳理
+07 python fullstack4 day64 初识Django
+08 python fullstack4 day64 第一个Django请求
+09 python fullstack4 day64 Django静态文件以及模板配置
+10 python fullstack4 day64 Django创建程序步骤
+11 python fullstack4 day64 Django用户登录示例
+12 python fullstack4 day64 Django模板语言特殊标记（一）
+13 python fullstack4 day64 今日作业
+01 python fullstack4 day65 今日内容概要
+02 python fullstack4 day65 上节内容回顾
+03 python fullstack4 day65 学员管理之数据库表结构设计
+04 python fullstack4 day65 学员管理之查看班级列表以及添加班级
+05 python fullstack4 day65 学员管理之删除班级
+06 python fullstack4 day65 学员管理之编辑班级
+07 python fullstack4 day65 今日作业
+01 python fullstack4 day66 今日内容概要以及上节回顾
+02 python fullstack4 day65 学员管理之查看学生列表
+03 python fullstack4 day65 学员管理之创建学生信息
+04 python fullstack4 day65 学员管理之编辑学生信息
+05 python fullstack4 day65 学员管理之基于Ajax创建班级（一）
+06 python fullstack4 day65 学员管理之基于Ajax创建班级（二）
+07 python fullstack4 day65 今日内容总结
+08 python fullstack4 day65 今日作业
+01 python fullstack4 day67 今日内容概要
+02 python fullstack4 day67 上节内容回顾之Web请求本质
+03 python fullstack4 day67 上节内容回顾之Django框架
+04 python fullstack4 day67 上节内容回顾之Ajax
+05 python fullstack4 day67 学员管理之编辑班级（对话框和Ajax）
+06 python fullstack4 day67 学员管理之涉及内容梳理
+07 python fullstack4 day67 学员管理之添加学生（对话框和Ajax）
+08 python fullstack4 day67 学员管理之编辑学生（对话框和Ajax）
+09 python fullstack4 day67 学员管理之查看老师以及任课班级列表（一）
+10 python fullstack4 day67 学员管理之查看老师以及任课班级列表（二）
+11 python fullstack4 day67 今日作业
+01 python fullstack4 day68 今日内容概要
+02 python fullstack4 day68 上节内容回顾
+03 python fullstack4 day68 学员管理之添加老师信息
+04 python fullstack4 day68 学员管理之编辑老师信息
+05 python fullstack4 day68 学员管理之添加老师信息（对话框和加载框）
+06 python fullstack4 day68 学员管理之添加老师信息（Ajax发送数据）
+07 python fullstack4 day68 学员管理之编辑思路
+08 python fullstack4 day68 初识Bootstrap
+09 python fullstack4 day68 今日作业
+01 python fullstack4 day69 今日内容概要
+02 python fullstack4 day69 上节内容回顾
+03 python fullstack4 day69 Bootstrap介绍
+04 python fullstack4 day69 后台管理布局（一）
+05 python fullstack4 day69 后台管理布局（二）
+06 python fullstack4 day69 Django模板引擎之母版
+07 python fullstack4 day69 初识cookie
+08 python fullstack4 day69 Django操作Cookie
+09 python fullstack4 day69 Django扩展签名cookie
+10 python fullstack4 day69 今日内容整理
+11 python fullstack4 day69 今日作业
+01 python fullstack4 day70 Web框架介绍
+02 python fullstack4 day70 今日内容概要
+03 python fullstack4 day70 上节内容回顾
+04 python fullstack4 day70 Django程序目录介绍
+05 python fullstack4 day70 路由系统之动态路由（一）
+06 python fullstack4 day70 路由系统之动态路由（二）
+07 python fullstack4 day70 路由系统之路由分发
+08 python fullstack4 day70 路由系统之别名反向生成URL（一）
+09 python fullstack4 day70 路由系统之别名反向生成URL（二）
+10 python fullstack4 day70 路由系统之别名反向生成URL（三）
+11 python fullstack4 day70 ORM操作之概要以及准备
+12 python fullstack4 day70 ORM操作之创建数据表（一）
+13 python fullstack4 day70 ORM操作之创建数据表（二）
+14 python fullstack4 day70 ORM操作之单表增删改查以及作业
+01 python fullstack4 day71 今日内容概要
+02 python fullstack4 day70 上节内容回顾
+03 python fullstack4 day70 Django视图之CBV（一）
+04 python fullstack4 day70 Django视图之CBV（二）
+05 python fullstack4 day70 Django视图之ORM连表操作（一）
+06 python fullstack4 day70 Django视图之ORM连表操作（二）
+07 python fullstack4 day70 Django视图之ORM操作梳理
+08 python fullstack4 day70 Django视图之内置分页
+09 python fullstack4 day70 Django视图之自定义分页（一）
+10 python fullstack4 day70 Django视图之自定义分页（二）
+11 python fullstack4 day70 Django视图之自定义分页（三）
+12 python fullstack4 day70 Django视图之自定义分页（四）
+13 python fullstack4 day70 Django视图之自定义分页（五）
+01 python fullstack4 day72 今日内容概要
+02 python fullstack4 day72 上节内容回顾（一）
+03 python fullstack4 day72 上节内容回顾（二）
+04 python fullstack4 day72 DjangoORM操作补充之基本操作
+05 python fullstack4 day72 DjangoORM操作补充之Q和F
+06 python fullstack4 day72 DjangoORM操作补充之extra
+07 python fullstack4 day72 DjangoORM操作补充之extra内容补充
+08 python fullstack4 day72 DjangoORM操作补充之其他操作
+09 python fullstack4 day72 DjangoORM操作补充之梳理
+10 python fullstack4 day72 Django之XSS攻击
+01 python fullstack4 day73 今日内容概要
+02 python fullstack4 day73 上节内容回顾以及内容补充
+03 python fullstack4 day73 Django之ORM补充select_related和prefetch_related
+04 python fullstack4 day73 Django之多对多操作（一）
+05 python fullstack4 day73 Django之多对多操作（二）
+06 python fullstack4 day73 Django之多对多操作（三）
+08 python fullstack4 day73 Django之CSRF以及CBV补充
+09 python fullstack4 day73 Django之CSRF（Ajax请求）
+01 python fullstack4 day74 今日内容概要
+02 python fullstack4 day74 内容回顾以及ORM操作补充（一）
+03 python fullstack4 day74 内容回顾以及ORM操作补充（二）
+04 python fullstack4 day74 内容回顾以及ORM操作补充（三）
+05 python fullstack4 day74 内容回顾以及ORM操作补充（四）
+06 python fullstack4 day74 Django模板语言补充之函数相关
+07 python fullstack4 day74 Django模板语言补充之include
+08 python fullstack4 day74 Django之Cookie和Session原理
+09 python fullstack4 day74 Django之Session基本使用
+10 python fullstack4 day74 Django之Session配置文件和其他操作
+11 python fullstack4 day74 Django之Session数据源配置
+12 python fullstack4 day74 Django之Session内容梳理
+13 python fullstack4 day74 今日作业
+day75-录制_2017_06_30_09_19_02_750
+day75-录制_2017_06_30_09_20_18_726
+day75-录制_2017_06_30_10_02_11_359
+day75-录制_2017_06_30_10_32_03_751
+day75-录制_2017_06_30_11_30_45_886
+day75-录制_2017_06_30_11_53_27_340
+day75-录制_2017_06_30_12_15_32_66
+day75-录制_2017_06_30_12_40_10_957
+day76-01 Django知识点梳理思维导图示例
+day76-02 今日内容概要
+day76-03 内容回顾以及WSGI拾遗
+day76-04 内容回顾以及MVC和MTV
+day76-05 Django中间件（一）
+day76-06 Django中间件（二）
+day76-07 Django中间件（三）
+day76-08 Django中间件内容总结
+day76-09 Django初识Form组件
+day76-10 今日作业
+01 python fullstack4 day77 今日内容概要
+02 python fullstack4 day77 内容回顾
+03 python fullstack4 day77 Form验证流程分析
+04 python fullstack4 day77 Form和Ajax提交验证
+05 python fullstack4 day77 Ajax提交之显示错误信息
+06 python fullstack4 day77 Form组件之常用字段和参数
+07 python fullstack4 day77 Form组件之插件相关参数
+08 python fullstack4 day77 Form组件之简单内容梳理
+09 python fullstack4 day77 Form组件之保留上次输入内容示例
+10 python fullstack4 day77 上述内容梳理
+11 python fullstack4 day77 Form组件之疑问
+12 python fullstack4 day77 示例：班级管理
+01 python fullstack s10-day65 周末作业讲解
+02 python fullstack s10-day65 MVC和MTV框架介绍
+03 python fullstack s10-day65 模板语言之变量相关语法
+04 python fullstack s10-day65 模板语言之filter
+05 python fullstack s10-day65 模板语言之tags
+01 python fullstack s10-day66 内容回顾
+02 python fullstack s10-day66 母版和继承的基本使用
+03 python fullstack s10-day66 母版和继承的使用及注意事项
+04 python fullstack s10-day66 组件的使用和注意事项
+05 python fullstack s10-day66 Django模板语言关于静态文件路径的灵活写法
+06 python fullstack s10-day66 自定义simple_tag和inclusion_tag介绍
+01 python fullstack s10-day67 内容回顾
+02 python fullstack s10-day67 FBV和CBV及上传文件简单示例
+03 python fullstack s10-day67 JsonResponse响应介绍
+04 python fullstack s10-day67 路由系统介绍
+05 python fullstack s10-day67 路由系统的分组命名匹配方式
+06 python fullstack s10-day67 使用include包含其他的url
+07 python fullstack s10-day67 反向解析URL
+01 python fullstack s10-day68 ORM内容回顾
+02 python fullstack s10-day68 路由内容复习
+03 python fullstack s10-day68 常用字段
+04 python fullstack s10-day68 不常用字段和自定义char类型
+05 python fullstack s10-day68 常用的字段属性
+01 python fullstack s10-day69 ORM查询的13种方法
+02 python fullstack s10-day69 单表的双下划线查询
+03 python fullstack s10-day69 外键的正向查询和反向查询
+04 python fullstack s10-day69 外键查询补充
+05 python fullstack s10-day69 多对多查询
+06 python fullstack s10-day69 分组和聚合查询
+07 python fullstack s10-day69 F和Q查询
+01 python fullstack s10-day70 内容回顾
+02 python fullstack s10-day70 ORM一对一表结构介绍
+03 python fullstack s10-day70 ORM建立多对多表结构的三种方式
+04 python fullstack s10-day70 ORM查询练习
+05 python fullstack s10-day70 跨站请求伪造和csrf_token使用
+01 python fullstack s10-day71 内容回顾
+02 python fullstack s10-day71 ORM分组补充
+03 python fullstack s10-day71 基本的分页实现
+04 python fullstack s10-day71 页面上展示固定的页码数
+05 python fullstack s10-day71 添加首页尾页上一页下一页
+06 python fullstack s10-day71 封装成通用的模块2
+07 python fullstack s10-day71 Cookie介绍和简单示例
+08 python fullstack s10-day71 装饰器版的登陆校验
+09 python fullstack s10-day71 session介绍及基本使用
+10 python fullstack s10-day71 如何在CBV中使用装饰器
+01 python fullstack s10-day72 内容回顾
+02 python fullstack s10-day72 json内容回顾
+03 python fullstack s10-day72 AJAX简介
+04 python fullstack s10-day72 AJAX请求过程梳理
+05 python fullstack s10-day72 AJAX发送POST请求
+06 python fullstack s10-day72 AJAX发送POST请求处理csrf_token的另外方式
+07 python fullstack s10-day72 Django序列化介绍
+08 python fullstack s10-day72 SweetAlert插件的使用
+01 python fullstack s10-day73 内容回顾
+02 python fullstack s10-day73 ajax的traditional参数
+03 python fullstack s10-day73 form组件简介
+04 python fullstack s10-day73 form组件常用的字段和字段参数
+05 python fullstack s10-day73 form组件校验功能
+06 python fullstack s10-day73 form组件内置的正则校验器
+07 python fullstack s10-day73 form源码剖析及自定义校验
+08 python fullstack s10-day73 form组件动态从数据库取choices数据
+01 python fullstack s10-day74 中间件介绍
+02 python fullstack s10-day74 importlib使用及第一个中间件示例
+03 python fullstack s10-day74 中间件process_request和process_response
+04 python fullstack s10-day74 中间件的process_view
+05 python fullstack s10-day74 中间件的process_template_response方法及总结
+06 python fullstack s10-day74 Django请求流程梳理及知识点回顾
+01 python fullstack s10-day75 内容回顾
+02 python fullstack s10-day75 auth模块初识
+03 python fullstack s10-day75 auth模块2
+04 python fullstack s10-day75 扩展默认auth表
+05 python fullstack s10-day75 博客项目需求分析
+01 python fullstack s10-day76 极验滑动验证码示例
+02 python fullstack s10-day76 上传文件示例
+03 python fullstack s10-day76 基于form的注册示例
+04 python fullstack s10-day76 基于form的注册2
+05 python fullstack s10-day76 头像图片的预览
+06 python fullstack s10-day76 form校验功能完善
+07 python fullstack s10-day76 AJAX提交注册数据并显示错误提示信息
+08 python fullstack s10-day76 AJAX提交带投降文件的注册数据
+01 python fullstack s10-day77 基于form组建的注册功能梳理
+02 python fullstack s10-day77 首页布局设计
+03 python fullstack s10-day77 auth模块功能梳理
+04 python fullstack s10-day77 首页布局2
+05 python fullstack s10-day77 django admin简单介绍
+06 python fullstack s10-day77 首页展示所有文章
+07 python fullstack s10-day77 今日内容梳理
+01 python fullstack s10-day78 ORM知识点回顾
+02 python fullstack s10-day78 个人博客页面设计
+03 python fullstack s10-day78 基于对象查询方式查询文章分类
+04 python fullstack s10-day78 文章分类分组及标签分组
+05 python fullstack s10-day78 日期归档
+06 python fullstack s10-day78 文章详情页面
+07 python fullstack s10-day78 inclusion_tag优化左侧内容
+01 python s10 day79 博客系统之点赞样式加载
+02 python s10 day79 Django请求流程
+03 python s10 day79 请求伴随的静态文件请求
+04 python s10 day79 render的渲染内容
+05 python s10 day79 博客系统之点赞请求发送
+06 python s10 day79 json数据
+07 python s10 day79 博客系统之点赞显示信息1
+08 python s10 day79 博客系统之点赞显示信息2
+01 python s10 day80 上节回顾
+02 python s10 day80 判断登录状态
+03 python s10 day80 博客系统之提交根评论
+04 python s10 day80 博客系统之render显示根评论
+05 python s10 day80 博客系统之ajax显示根评论
+06 python s10 day80 博客系统之回复按钮事件
+07 python s10 day80 博客系统之提交子评论
+08 python s10 day80 博客系统之render显示子评论
+09 python s10 day80 博客系统之显示评论树
+01 python s10 day81 博客系统之富文本编辑器的引入
+02 python s10 day81 博客系统之富文本编辑器的参数与上传文件
+03 python s10 day81 博客系统之bs模块的使用
+04 python s10 day81 博客系统之xss攻击问题
+05 python s10 day81 博客系统之防止xss攻击
+ORM回顾1
+ORM回顾2
+ORM回顾3
+01 python s10 day82 admin组件的简单使用
+02 python s10 day82 admin组件的简单使用2
+03 python s10 day82 admin组件流程之启动
+04 python s10 day82 admin组件流程之注册准备知识：单例对象
+ORM回顾之分组查询
+ORM回顾之分组查询补充
+01 python s10 day83 上节回顾
+02 python s10 day83 单例补充
+03 python s10 day83 url分发
+04 python s10 day83 url注册
+05 python s10 day83 url分发2
+06 python s10 day83 Xadmin组件之注册
+07 python s10 day83 Xadmin组件之设计url
+01 python s10 day83 Xadmin组件之配置类对象
+02 python s10 day83 Xadmin组件之配置类对象2
+03 python s10 day83 Xadmin组件之构建表单数据
+04 python s10 day83 Xadmin组件之构建表单数据2
+05 python s10 day83 Xadmin组件之构建表单数据3
+06 python s10 day83 Xadmin组件之构建表头数据
+07 python s10 day83 Xadmin组件之构建表头数据2
+08 python s10 day83 今日总结
+01 python fullstack s9-day81 文本编辑器的参数
+02 python fullstack s9-day81 文本编辑器的文件上传
+03 python fullstack s9-day81 beautifulSoup模块1
+04 python fullstack s9-day81 文章内容的过滤处理1
+05 python fullstack s9-day81 beautifulSoup模块2
+06 python fullstack s9-day81 文章内容的过滤处理2
+01 python fullstack s9-day82 文本编辑器补充
+02 python fullstack s9-day82 权限的概念
+03 python fullstack s9-day82 rbac的设计
+04 python fullstack s9-day82 注册登录用户所有权限到session中
+05 python fullstack s9-day82 权限的校验
+06 python fullstack s9-day81 基于中间件的权限校验
+01 pythons9day83 上节回顾
+02 pythons9day83 后台管理布局
+03 pythons9day83 权限按钮控制的简单形式
+04 pythons9day83 修改表结构
+05 pythons9day83 重构数据结构
+06 pythons9day83 限制权限粒度
+01 python s9day84 权限菜单显示
+02 python s9day84 Django的路径自动添加问题
+03 python s9day84. 原生form实现增删改查
+04 python s9day84 modelform实现增删改查
+01 python s9day85 form组件补充1
+02 python s9day85 form组件补充2
+03 python s9day85 modelForm回顾
+04 python s9day85 浏览器历史
+05 python s9day85 jsonp实现跨域请求1
+06 python s9day85 jsonp实现跨域请求2
+07 python s9day85 jsonp实现跨域请求的应用
+08 python s9day85 基于cors实现跨域请求
+01 python s9day86 会议室预定1
+02 python s9day86 会议室预定2
+03 python s9day86 会议室预定3
+04 python s9day86 会议室预定4
+05 python s9day86 会议室预定5
+06 python s9day86 会议室预定6
+01 python s9day87 admin的使用1
+02 python s9day87 admin的使用2
+03 python s9day87 admin的使用3
+04 python s9day87 url方法的使用
+05 python s9day87 单例模式
+06 python s9day87 admin源码之注册功能
+07 python s9day87 admin源码之url设计
+08 python s9day87 admin源码之url设计2
+03 python s9day88 stark组件之设计urls
+04 python s9day88 stark组件之设计url2
+05 python s9day88 stark组件之list_display
+06 python s9day88 stark组件之z查看页面的数据展示
+01 python s9day89 stark总结
+02 python s9day89 ORM补充
+03 python s9day89 上节作业
+04 python s9day89 stark组件之查看页面表头
+05 python s9day89 list_display_links
+06 python s9day89 stark组件之添加页面
+07 python s9day89 编辑删除页面
+01 pythons9day90 扩展分页组件
+02 pythons9day90 整合展示数据showlist类
+03 pythons9day90 stark组件之分页
+04 pythons9day90 stark组件之search查询
+05 pythons9day90 action的批量处理
+01 pythons9day90 上节回顾
+02 pythons9day90 stark组件之过滤1
+03 pythons9day90 stark组件之过滤2
+04 pythons9day90 stark组件之过滤3
+05 pythons9day90 stark组件之过滤4
+06 pythons9day90 stark组件之过滤5
+07 pythons9day90 stark组件之过滤6
+01 pythons9day92 stark组件之pop功能1
+02 pythons9day92 stark组件之pop功能2
+03 pythons9day92 stark组件之pop功能3
+04 pythons9day92 stark组件之pop功能4
+01 pythons9day92 limit_choice_to的用法
+02pythons9day93 自定义字段和录入数据1
+03pythons9day93 自定义字段和录入数据2
+04pythons9day93 自定义字段和录入数据3
+05pythons9day93 自定义字段和录入数据4
+01 pythons9day94 上节回顾
+02 pythons9day94 课程记录初始化
+03 pythons9day94 查询补充(1)
+04 pythons9day94 条件过滤
+05 pythons9day94 考勤
+06 pythons9day94 录入成绩
+01 pythons9day95 显示个人成绩
+02 pythons9day94 客户公用资源页面1
+03 pythons9day94 客户公用资源页面2
+04 pythons9day95 我的客户
+01 pythons9day96 管理员分配权限
+03 pythons9day96 crm引入权限组件2
+04 pythons9day96 crm引入权限组件3
+06 pythons9day96 postman的使用
+05 pythons9day96 CBV之view源码一览
+02 python s9day97 restframe之Django的原生request
+03 python s9day97 restframe之新构建的request
+04 python s9day97 restframe之序列化字段
+05 python s9day97 restframe之ModelSerializers和重写create方法
+06 python s9day97 restframe之单条数据处理
+07python s9day97 restframe之序列化的超链接字段
+08 python s9day97 今日总结
+01 python s9day98 上节回顾
+02 python s9day98 restframework之视图1
+03 python s9day98 restframework之视图2
+04 python s9day98 restframework之视图3
+05 python s9day98 restframework之视图4
+06 python s9day98 restframework之视图5
+07 python s9day98 restframework之登录验证
+08 python s9day98 restframework之认证组件初识
+09 python s9day98 restframework之认证组件1
+10 python s9day98 restframework之认证组件2
+01 python s9day99 上节回顾1
+02 python s9day99 上节回顾2
+03 python s9day99 权限组件
+04 python s9day99 频率组件
+05 python s9day99 解析器
+06 python s9day99 url控制
+07 python s9day99 分页组件
+08 python s9day99 响应器
+s9 day99-2 01课程安排
+s9 day99-2 02let和const
+01 python s9day97 restframe之序列化组件初见
+s9 day99-2 04对象的单体模式
+s9 day99-2 05nodejs介绍和npm操作
+s9 day99-2 06webpack，babel介绍和vue的第一个案例
+s9 day99-2 01课程安排
+s9 day99-2 02let和const
+s9 day99-2 03箭头函数
+s9 day99-2 03箭头函数
+s9 day99-2 05nodejs介绍和npm操作
+s9 day99-2 06webpack，babel介绍和vue的第一个案例
+s9 day99-2 04对象的单体模式
+s9 day100 01昨天内容回顾
+s9 day100 02v-if指令和v-on指令
+s9 day100 03指令系统介绍
+s9 day100 04指令系统介绍
+s9 day100 05计算属性的使用和v-model的实现原理
+02 python fullstack s9-day101 音乐播放器计算属性方法和组件创建
+01 python fullstack s9-day101 昨天内容回顾
+03 python fullstack s9-day101 vue-cli项目生成
+04 python fullstack s9-day101 模板中组件的使用
+day102-1.回顾昨天内容
+day102-2.父子组件传值
+day102-3.vue-router的使用
+day103-01-django项目介绍
+day103-02-webpack模板vue项目生成
+day103-03-vue-router项目实现
+day103-04-路由切换保持状态
+day103-05-markdown编辑应用创建
+day103-06-为什么要使用vuex
+day103-07-vuex的使用
+day103-08-使用jquery发送ajax请求获取数据
+day103-09-vuex中的mutations使用
+day103-10-vuex的actions方法使用
+day103-11-elementUI
+day103-12-封装自己的按钮(slot)和axios技术
+01 python fullstack s9day104 日后课程内容
+02 python fullstack s9day104 内容回顾和补充（一）
+03 python fullstack s9day104 内容回顾和补充（二）
+04 python fullstack s9day104 rest framework框架之渲染器
+05 python fullstack s9day104 rest framework框架之分页
+06 python fullstack s9day104 vue和api整合流程示例
+07 python fullstack s9day104 CORS跨域实现简答请求
+08 python fullstack s9day104 内容梳理和作业
+01 python fullstack s8day105 今日内容概要
+02 python fullstack s8day105 内容回顾
+03 python fullstack s8day105 vue示例之课程列表
+04 python fullstack s8day105 vue示例之课程详细（一）
+05 python fullstack s8day105 vue示例之课程详细（二）
+06 python fullstack s8day105 api示例之数据录入
+07 python fullstack s8day105 api示例之课程列表接口
+08 python fullstack s8day105 api示例之课程详细接口
+09 python fullstack s8day105 上述内容总结
+10 python fullstack s8day105 课上练习以及答案
+11 python fullstack s8day105 上述内容总结
+12 python fullstack s8day105 vue示例补充：基于api显示课程详细信息
+13 python fullstack s8day105 今日作业
+01 python fullstack s9day106 今日内容概要
+02 python fullstack s9day106 内容回顾
+03 python fullstack s9day106 vue示例之推荐课程切换
+04 python fullstack s9day106 vue示例之用户登录（含跨域处理）
+05 python fullstack s9day106 vue示例之vuex和vue-cookies的应用
+06 python fullstack s9day106 api示例之用户认证（含认证组件）
+07 python fullstack s9day106 上述内容梳理
+08 python fullstack s9day106 django内置组件之contenttype
+01 python fullstack s9day107 今日内容概要
+02 python fullstack s9day107 上节内容回顾
+03 python fullstack s9day107 django orm补充
+04 python fullstack s9day107 路飞学城表结构：课程相关（一）
+05 python fullstack s9day107 路飞学城表结构：课程相关（二）
+06 python fullstack s9day107 支付宝支付示例
+07 python fullstack s9day107 支付宝支付线上示例
+08 python fullstack s9day107 今日作业
+01 python fullstack s9day108 今日内容概要
+02 python fullstack s9day108 内容回顾和补充（一）
+03 python fullstack s9day108 内容回顾和补充（二）
+04 python fullstack s9day108 路飞学城标结果：深科技相关
+05 python fullstack s9day108 初识Git
+01 python fullstack s9day109 今日内容概要
+02 python fullstack s9day109 内容回顾和补充
+03 python fullstack s9day109 git版本控制之stash和branch
+04 python fullstack s9day109 git版本控制之github代码托管
+05 python fullstack s9day109 上述内容总结
+06 python fullstack s9day109 git版本控制之约妹子忘记提交引发的问题
+07 python fullstack s9day109 git版本控制之rebase的作用
+08 python fullstack s9day109 初识redis
+09 python fullstack s9day109 基于Python操作redis
+10 python fullstack s9day109 今日内容总结
+01 python fullstack s9day110 今日内容概要
+02 python fullstack s9day110 内容回顾
+03 python fullstack s9day110 git版本控制之多人协同开发
+04 python fullstack s9day110 git版本控制之fork
+05 python fullstack s9day110 git版本控制之其他
+06 python fullstack s9day110 redis之字典基本操作
+07 python fullstack s9day110 django中操作redis
+08 python fullstack s9day110 django缓存
+09 python fullstack s9day110 小补充：rest framework访问频率限制
+路飞代码示例讲解
+01 python fullstack s9day111 今日内容概要
+02 python fullstack s9day111 内容回顾
+03 python fullstack s9day111 redis之列表操作
+04 python fullstack s9day111 redis之列表操作以及事务
+05 python fullstack s9day111 微信消息推送（一）
+06 python fullstack s9day111 微信消息推送（二）
+07 python fullstack s9day111 路飞学城之购物车实现思路（一）
+08 python fullstack s9day111 路飞学城之购物车实现思路（二）
+09 python fullstack s9day111 内容总结和作业
+01 python fullstack s9day112 今日内容概要
+02 python fullstack s9day112 内容回顾
+03 python fullstack s9day112 redis操作补充（一）
+04 python fullstack s9day112 redis操作补充（二）
+05 python fullstack s9day112 路飞学城购物车示例：价格策略录入
+06 python fullstack s9day112 路飞学城购物车示例：添加购物车（一）
+07 python fullstack s9day112 路飞学城购物车示例：添加购物车（二）
+08 python fullstack s9day112 路飞学城购物车示例：删除购物车
+09 python fullstack s9day112 路飞学城购物车示例：修改价格策略
+10 python fullstack s9day112 路飞学城购物车示例：查看购物车
+11 python fullstack s9day112 今日作业
+12 python fullstack s9day112 路飞学城结算示例：表结构
+13 python fullstack s9day112 路飞学城结算示例：实现思路
+01 python fullstack s9day113 今日内容概要
+02 python fullstack s9day113 内容回顾
+03 python fullstack s9day113 路飞学城示例：去结算（一）
+04 python fullstack s9day113 路飞学城示例：去结算（二）
+05 python fullstack s9day113 路飞学城示例：去结算（三）
+06 python fullstack s9day113 路飞学城示例：去结算之获取优惠券信息（一）
+07 python fullstack s9day113 路飞学城示例：去结算之获取优惠券信息（二）
+08 python fullstack s9day113 路飞学城示例：去结算之获取优惠券信息（三）
+09 python fullstack s9day113 路飞学城示例：清空个人结算中心
+10 python fullstack s9day113 路飞学城示例：修改优惠券
+11 python fullstack s9day113 路飞学城示例：获取结算数据（一）
+12 python fullstack s9day113 路飞学城示例：获取结算数据（二）
+01 python fullstack s9day114 今日内容概要
+02 python fullstack s9day114 课前分享
+03 python fullstack s9day114 内容回顾
+04 python fullstack s9day114 路飞表结构（一）
+05 python fullstack s9day114 路飞表结构（二）
+06 python fullstack s9day114 路飞立即支付思路
+07 python fullstack s9day114 今日作业
+08 python fullstack s9day114 初识Flask
+09 python fullstack s9day114 werkzurg
+10 python fullstack s9day114 flask示例：用户登录程序
+01 python fullstack s9day115 今日内容概要
+02 python fullstack s9day115 内容回顾
+03 python fullstack s9day115 flask框架：配置文件导入原理
+04 python fullstack s9day115 flask框架：配置文件使用
+05 python fullstack s9day115 flask框架：路由系统
+06 python fullstack s9day115 flask框架：请求和响应相关
+07 python fullstack s9day115 示例：学生管理（一）
+08 python fullstack s9day115 示例：学生管理（二）
+09 python fullstack s9day115 flask框架：模板
+10 python fullstack s9day115 flask框架：session
+11 python fullstack s9day115 flask框架：flash和特殊装饰器
+12 python fullstack s9day115 flask框架：中间件
+13 python fullstack s9day115 flask框架：特殊装饰器
+14 python fullstack s9day115 今日内容总结
+01 python fullstack s9day116 今日内容概要
+02 python fullstack s9day116 内容回顾
+03 python fullstack s9day116 flask框架：路由和视图（一）
+04 python fullstack s9day116 flask框架：路由和视图（二）
+05 python fullstack s9day116 flask框架：路由和视图（三）
+06 python fullstack s9day116 flask框架：路由和视图（四）
+07 python fullstack s9day116 flask框架：session执行流程源码初探
+08 python fullstack s9day116 flask框架：session执行流程源码基本实现
+09 python fullstack s9day116 今日作业
+10 python fullstack s9day116 flask框架：蓝图（一）
+11 python fullstack s9day116 flask框架：蓝图（二）
+12 python fullstack s9day116 threading.local及加强版
+13 python fullstack s9day116 flask框架：上下文管理基本流程
+14 python fullstack s9day116 今日作业
+01 python fullstack s9day117 今日内容概要
+02 python fullstack s9day117 内容回顾
+03 python fullstack s9day117 上下文管理前戏：偏函数和面向对象
+04 python fullstack s9day117 上下文管理前戏：基于列表实现栈
+05 python fullstack s9day117 上下文管理前戏：Local对象
+06 python fullstack s9day117 上下文管理前戏：LocalStack对象
+07 python fullstack s9day117 上下文管理前戏：以上综合应用
+08 python fullstack s9day117 上述内容总结
+09 python fullstack s9day117 Flask请求上下文管理原理剖析（一）
+10 python fullstack s9day117 Flask请求上下文管理原理剖析（二）
+11 python fullstack s9day117 Flask第三方组件：flask-session使用
+12 python fullstack s9day117 Flask第三方组件：flask-session原理
+13 python fullstack s9day117 今日作业
+01 python fullstack s9day118 今日概要
+02 python fullstack s9day118 内容回顾
+03 python fullstack s9day118 代码统计之用户登录
+04 python fullstack s9day118 代码统计之用户列表（一）
+05 python fullstack s9day118 代码统计之用户列表（二）
+06 python fullstack s9day118 代码统计之查看代码统计量
+07 python fullstack s9day118 代码统计之上传zip文件和解压
+08 python fullstack s9day118 代码统计之统计代码行数
+10 python fullstack s9day118 数据库连接池DBUtils使用
+11 python fullstack s9day118 代码统计之Flask应用DBUtils（一）
+12 python fullstack s9day118 代码统计之Flask应用DBUtils（二）
+13 python fullstack s9day118 今日作业
+01 python fullstack s9day119 今日内容概要
+02 python fullstack s9day119 内容回顾：Flask
+03 python fullstack s9day119 内容回顾：数据库
+04 python fullstack s9day119 flask请求上下文：LocalProxy对象
+05 python fullstack s9day119 flask请求上下文：源码图示
+06 python fullstack s9day119 flask上下文管理：基本流程
+07 python fullstack s9day119 flask上下文管理：源码图示
+08 python fullstack s9day119 flask上下文管理：g的作用
+09 python fullstack s9day119 问题：多线程环境中g是否安全？
+10 python fullstack s9day119 wtforms介绍
+11 python fullstack s9day119 wtforms示例：用户登录
+12 python fullstack s9day119 wtforms示例：用户注册
+13 python fullstack s9day119 wtforms示例：数据库数据实时更新
+14 python fullstack s9day119 wtforms内容总结
+01 python fullstack s9day120 今日内容概要
+02 python fullstack s9day120 内容回顾：Flask
+03 python fullstack s9day120 内容回顾：数据库
+04 python fullstack s9day120 wtforms补充和django示例
+05 python fullstack s9day120 wtforms原理：前戏
+06 python fullstack s9day120 wtforms原理：源码分析（一）
+07 python fullstack s9day120 wtforms原理：源码分析（二）
+08 python fullstack s9day120 SQLAlchemy介绍
+09 python fullstack s9day120 SQLAlchemy基本增删改查
+10 python fullstack s9day120 SQLAlchemy常用操作
+01 fullstack s9day121 今日内容概要
+02 fullstack s9day121 内容回顾：flask
+03 fullstack s9day121 内容回顾：面向对象
+04 fullstack s9day121 内容回顾：数据库
+05 fullstack s9day121 wtforms补充（一）
+06 fullstack s9day121 wtforms补充（二）
+07 fullstack s9day121 SQLAlchemy之FK
+09 fullstack s9day121 SQLAlchemy之FK操作（一）
+10 fullstack s9day121 SQLAlchemy之FK操作（二）
+11 fullstack s9day121 SQLAlchemy之FK操作（三）
+12 fullstack s9day121 SQLAlchemy之M2M操作（一）
+13 fullstack s9day121 SQLAlchemy之两种连接方式
+14 fullstack s9day121 SQLAlchemy之原生SQL
+01 python fullstack s9day122 今日内容概要
+02 python fullstack s9day122 内容回顾：Flask
+03 python fullstack s9day122 内容回顾：面向对象
+04 python fullstack s9day122 内容回顾：数据库（一）
+05 python fullstack s9day122 内容回顾：数据库（二）
+06 python fullstack s9day122 Flask-SQLAlchemy组件应用
+07 python fullstack s9day122 flask-script组件应用
+08 python fullstack s9day122 flask-migrate组件应用
+09 python fullstack s9day122 pipreqs使用
+10 python fullstack s9day122 vitualenv使用
+11 python fullstack s9day122 初识爬虫
+12 python fullstack s9day122 今日作业
+01 python fullstack s9day123 今日内容概要
+02 python fullstack s9day123 内容回顾和补充：面向对象约束
+03 python fullstack s9day123 爬虫之抽屉新热榜
+04 python fullstack s9day123 爬虫之抽屉自动登录（一）
+05 python fullstack s9day123 爬虫之抽屉自动登录（二）
+06 python fullstack s9day123 爬虫之登录github（一）
+07 python fullstack s9day123 爬虫之登录github（二）
+08 python fullstack s9day123 爬虫之登录拉钩
+09 python fullstack s9day123 上述内容总结
+10 python fullstack s9day123 requests模块详解（一）
+11 python fullstack s9day123 requests模块详解（二）
+12 python fullstack s9day123 requests模块详解（三）
+13 python fullstack s9day123 bs4模块简述（后补充）
+14 python fullstack s9day123 9期最丑的男人：轮询
+15 python fullstack s9day123 9期最丑的男人：长轮询
+16 python fullstack s9day123 今日总结
+01 python fullstack s9day124 今日内容概要
+02 python fullstack s9day124 内容回顾：flask上下文
+03 python fullstack s9day124 内容回顾：多app应用
+04 python fullstack s9day124 内容回顾：面向对象和数据库
+05 python fullstack s9day124 内容回顾：爬虫
+06 python fullstack s9day124 web微信：获取二维码（一）
+07 python fullstack s9day124 web微信：获取二维码（二）
+08 python fullstack s9day124 web微信：获取用户头像
+09 python fullstack s9day124 web微信：确认登录
+10 python fullstack s9day124 web微信：用户用户凭证
+11 python fullstack s9day124 web微信：用户信息初始化
+12 python fullstack s9day124 今日作业
+01 python fullstack s9day125 今日内容概要
+02 python fullstack s9day125 内容回顾：爬虫
+03 python fullstack s9day125 内容回顾：网络和并发编程
+04 python fullstack s9day125 web微信之获取联系人列表
+05 python fullstack s9day125 web微信之发送消息
+06 python fullstack s9day125 为什么request.POST拿不到数据？
+07 python fullstack s9day125 到底使用data还是json？
+08 python fullstack s9day125 web微信之接受消息（可选）
+09 python fullstack s9day125 上述内容总结
+10 python fullstack s9day125 scrapy安装
+11 python fullstack s9day125 scrapy基本命令
+12 python fullstack s9day125 scrapy示例：获取抽屉新闻
+13 python fullstack s9day125 scrapy创建下载任务
+14 python fullstack s9day125 今日作业
+01 python fullstack s9day126 今日内容概要
+02 python fullstack s9day126 内容回顾和补充：scrapy
+03 python fullstack s9day126 内容回顾和补充：网络和并发编程
+04 python fullstack s9day126 scrapy框架：pipeline做持久化（一）
+05 python fullstack s9day126 scrapy框架：pipeline做持久化（二）
+06 python fullstack s9day126 scrapy框架：dupefilter做去重（一）
+07 python fullstack s9day126 scrapy框架：dupefilter做去重（二）
+08 python fullstack s9day126 scrapy框架：depth深度控制
+09 python fullstack s9day126 scrapy框架：手动处理cookie
+01 python fullstack s9day127 今日内容概要
+02 python fullstack s9day127 内容回顾：爬虫
+03 python fullstack s9day127 内容回顾：并发和网络
+04 python fullstack s9day127 scrapy框架：起始请求定制
+05 python fullstack s9day127 scrapy框架：深度和优先级
+06 python fullstack s9day127 scrapy框架：内置代理
+07 python fullstack s9day127 scrapy框架：自定义代理
+08 python fullstack s9day127 scrapy框架：解析器
+1 算法基本概念与递归
+2 二分查找与Low B三人组
+3 快速排序
+4 堆排序
+5 归并排序
+01 python fullstack s9day129 今日内容概要
+02 python fullstack s9day129 内容回顾：爬虫
+03 python fullstack s9day129 内容回顾：并发
+04 python fullstack s9day129 scrapy框架：下载中间件
+05 python fullstack s9day129 scrapy框架：爬虫中间件
+06 python fullstack s9day129 scrapy框架：定制命令
+07 python fullstack s9day129 django信号
+08 python fullstack s9day129 flask信号
+09 python fullstack s9day129 scrapy框架：信号
+10 python fullstack s9day129 redis集合
+11 python fullstack s9day129 scrapy框架：基于redis去重
+12 python fullstack s9day129 scrapy-redis组件：去重规则
+01 python fullstack s9day130 今日内容概要
+02 python fullstack s9day130 内容回顾
+03 python fullstack s9day130 redis01
+04 python fullstack s9day130 redis02
+05 python fullstack s9day130 redis03
+06 python fullstack s9day130 redis04
+07 python fullstack s9day130 redis05
+08 python fullstack s9day130 redis06
+09 python fullstack s9day130 redis07
+01 python fullstack s9day131 今日内容概要
+02 python fullstack s9day131 内容回顾：爬虫
+03 python fullstack s9day131 内容回顾：并发和网络
+04 python fullstack s9day131 爬虫之高性能相关（一）
+07 python fullstack s9day131 websocket示例：投票系统
+08 python fullstack s9day131 websocket原理剖析
+09 python fullstack s9day131 websocket总结

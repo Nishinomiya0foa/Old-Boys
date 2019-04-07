@@ -9,5 +9,5 @@ result = os.listdir(path)
 print(result)
 
 for file in result:
-    if 's9' in file:
-        os.renames(path+file, path+file.replace('s9', ''))
+    if 'python fullstack s9' in file:
+        os.renames(path+file, path+file.replace('python fullstack s9', ''))
