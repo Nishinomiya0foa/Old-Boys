@@ -47,7 +47,7 @@ def connect():
         elif choose_operate.decode('utf-8') == '1':
             break
         elif choose_operate.decode('utf-8') == '2':
-            from core import upload
+            from homework.ftp_homework.core import upload
             head, filesize_pack = upload.upload()
             # print(head, filesize_pack)
             filesize = head['filesize']
@@ -74,3 +74,5 @@ def connect():
 
 if __name__ == '__main__':
     connect()
+#
+# connect()

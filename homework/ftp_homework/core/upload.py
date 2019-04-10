@@ -2,7 +2,7 @@ import os
 import struct
 import json
 
-from core import message_head
+from homework.ftp_homework.core import message_head
 
 def upload():
     head = message_head.head()
