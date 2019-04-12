@@ -48,10 +48,9 @@ def connect():
             conn.send('你选择了 上传'.encode('utf-8'))
             head_len = conn.recv(4)
             head_len = struct.unpack('i', head_len)
-
             # json格式的报头
-            # head_json = conn.recv(head_len[0])
-            head_json = conn.recv(head_len[0]).decode('utf-8')
+            print(head_len[0], head_len)
+            head_json = conn.recv(head_len[0]).decode()
             head = json.loads(head_json)
             filesize = head['filesize']
             with open(head['filename'], 'wb') as f1:

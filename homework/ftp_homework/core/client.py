@@ -44,10 +44,14 @@ def connect():
         if choose_operate.decode('utf-8').lower() == 'q':
             skt.close()
             exit(0)
+        # 下载
         elif choose_operate.decode('utf-8') == '1':
             break
+        # 上传
         elif choose_operate.decode('utf-8') == '2':
             from homework.ftp_homework.core import upload
+
+            # 得到 报头utf-8， 文件大小bytes
             head, filesize_pack = upload.upload()
             # print(head, filesize_pack)
             filesize = head['filesize']
