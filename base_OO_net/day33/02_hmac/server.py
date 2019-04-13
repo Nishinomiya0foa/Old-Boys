@@ -3,7 +3,7 @@ import hmac
 import os
 
 skt = socket.socket()
-skt.bind(('127.0.0.1', 8091))
+skt.bind(('localhost', 8091))
 
 print(socket.gethostname())
 print(socket.gethostbyname_ex(socket.gethostname()))
@@ -11,6 +11,7 @@ print(socket.gethostbyname_ex(socket.gethostname()))
 skt.listen(0)
 
 conn, addr = skt.accept()
+print('Connent Client：{}'.format(addr))
 
 
 def check_client(conn):
