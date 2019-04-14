@@ -1,0 +1,9 @@
+2019-04-13 15:17:47,530 - INFO - (signup.py的-signup-14行)    : d97a86e5d34a223fb498dca999de0470
+2019-04-13 15:52:26,071 - INFO - (client_conn.py的-client_conn-23行)    : b'0'
+2019-04-13 15:53:06,992 - INFO - (client_conn.py的-client_conn-23行)    : b'0'
+2019-04-13 15:54:01,249 - INFO - (client_conn.py的-client_conn-23行)    : b'0'
+2019-04-14 15:22:59,944 - INFO - (client_conn.py的-client_conn-77行)    : 用户 chen123 成功下载文件 F:\python old boys\testFile\03vim使用.mp4
+2019-04-14 15:26:29,846 - INFO - (client_conn.py的-client_conn-78行)    : 用户 chen123 成功下载文件 F:\python old boys\testFile\06shell基础.mp4
+2019-04-14 15:27:58,729 - INFO - (client_conn.py的-client_conn-78行)    : 用户 chen123 成功下载文件 F:\python old boys\testFile\02grep练习.mp4
+2019-04-14 16:42:13,096 - INFO - (client_conn.py的-client_conn-80行)    : 用户 chen123 成功下载文件 F:\python old boys\testFile\05软件安装.mp4
+2019-04-14 17:19:25,004 - INFO - (client_conn.py的-client_conn-127行)    : 用户 chen123 续传文件 F:\python old boys\testFile\04vim练习.mp4
