@@ -14,13 +14,14 @@ class A:
         return self.name
 
 
-chen = A('Chen', 22)
-print(A.get_identity_id())
+# chen = A('Chen', 22)
+# print(A.get_identity_id())
+#
+# if hasattr(chen, '__identity_id'):
+#     ret = getattr(chen, '__identity_id')
+#     print(ret)
+#
+# print(getattr(chen, 'get_name')())
+# print(getattr(A, 'COUNTRY'))
+# print(getattr(A, 'get_identity_id')())
 
-if hasattr(chen, '__identity_id'):
-    ret = getattr(chen, '__identity_id')
-    print(ret)
-
-print(getattr(chen, 'get_name')())
-print(getattr(A, 'COUNTRY'))
-print(getattr(A, 'get_identity_id')())
