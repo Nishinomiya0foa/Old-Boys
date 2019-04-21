@@ -17,7 +17,3 @@ os:返回 os.name
 ls:返回 os.curdir()
 """
 
-import subprocess
-import os
-
-a = subprocess.call('dir', shell=True)

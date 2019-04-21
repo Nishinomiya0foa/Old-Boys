@@ -13,22 +13,39 @@ for p in 目录a：
 """
 
 import os
+import time
 
 
 
+def count_lines(path, count=0):
+    dir_list = os.listdir(path)
 
+    for file in dir_list:
+        file_path = os.path.join(path, file)
+        if os.path.isdir(file_path):
+            count_lines(file_path)
+        elif os.path.splitext(file_path)[1] == '.py':
+            with open(file_path,'r', encoding='utf-8') as f1:
+                for line in f1:
+                    # print(line.strip())
+                    if not line.lstrip().startswith('#') and line.strip() != '':
+                        # print(line.strip())
+                        count += 1
+            print(file_path, ':', count)
+        count = 0
 
-def print_filename(path):
-    first_path = os.listdir()
-    for i in first_path:
-        # print(i)
-        if os.path.isdir(os.path.join(path,i)):
-            print_filename(i)
-            return i
-        elif os.path.isfile(i):
-            print(i)
+def getlines(path):
+    file_list = os.listdir(path)
+
+    for file in file_list:
+        file_path = os.path.join(path, file)
+        if os.path.isdir(file_path):
+            getlines(file_path)
+        else:
+            print(file_path)
 
 
 if __name__ == '__main__':
-    path = r'F:\learning\遍历文件'
-    print_filename(path)
+    path = r'F:\Old Boys'
+    # print(count_lines(path))
+    getlines(path)
