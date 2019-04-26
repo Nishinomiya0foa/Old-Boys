@@ -30,18 +30,3 @@
 """阻塞和非阻塞
 
 """
-class Solution:
-    def twoSum(self, nums, target) -> list:
-        new_nums = []
-        for num in nums:
-            if num <= target:
-                new_nums.append(num)
-        for num in new_nums:
-            temp_new_nums = new_nums
-            temp_new_nums.remove(num)
-            for i in temp_new_nums:
-                if num+i == target:
-                    return [nums.index(num), temp_new_nums.index(i)+1]
-
-getNum = Solution()
-print(getNum.twoSum([2,5,5,11], 10))
