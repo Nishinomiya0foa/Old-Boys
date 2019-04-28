@@ -13,13 +13,14 @@ class Solution:
     def twoSum(self,nums, target):
         if len(nums) < 2:
             pass
-        tempDict = {nums[0] : 0}
-        for i in range(1, len(nums)):
-            checkNum = target-nums[i]
-            if(checkNum in tempDict.keys()):
-                return [i,tempDict[checkNum]]
+        tempDict = {nums[0] : 0}  # -1
+        for i in range(1, len(nums)):  # 1
+            checkNum = target-nums[i]  # -1
+            if checkNum in tempDict.keys():
+                return [i,tempDict[checkNum]]  # [1, 0]
             else:
                 tempDict[nums[i]] = i
 
+
 getNum = Solution()
-print(getNum.twoSum([-1,-2,-3,4,5], 9))
+print(getNum.twoSum([-1,-2,-3,4,5], -3))
