@@ -1,27 +1,24 @@
-class A:
-    __identity_id = 343333333333333
-    COUNTRY = 'China'
+"""对 [-2^31, 2^31-1]范围的int类型的数进行反转.
+负号不会被反转
+"""
 
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
+class Solution:
+    def reverse(self, x: int) -> int:
+        if x < -2**31 or x > 2**31-1:
+            return 0
+        else:
+            list_x = []
+            ret = []
+            [list_x.append(i) for i in str(x)]
+            if list_x[0] == '-':
+                ret.append('-')
+                list_x.remove('-')
+            while len(list_x) > 0:
+                ret.append(list_x.pop())
+            if int(''.join(ret)) < -2 ** 31 or int(''.join(ret)) > 2 ** 31 - 1:
+                return 0
+            return int(''.join(ret))
 
-    @classmethod
-    def get_identity_id(cls):
-        return A.__identity_id
-
-    def get_name(self):
-        return self.name
-
-
-# chen = A('Chen', 22)
-# print(A.get_identity_id())
-#
-# if hasattr(chen, '__identity_id'):
-#     ret = getattr(chen, '__identity_id')
-#     print(ret)
-#
-# print(getattr(chen, 'get_name')())
-# print(getattr(A, 'COUNTRY'))
-# print(getattr(A, 'get_identity_id')())
-
+if __name__ == '__main__':
+    nnn = Solution()
+    print(nnn.reverse(1534236469))

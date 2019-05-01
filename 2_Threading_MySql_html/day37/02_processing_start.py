@@ -1,5 +1,5 @@
 """多进程的几个启动方法
-    1. join 异步变同步
+    1. join 异步变同步;等待子进程结束后再继续向下运行,通常用于进程间的同步
 """
 import time
 from multiprocessing import Process

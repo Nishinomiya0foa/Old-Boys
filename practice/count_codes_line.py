@@ -34,6 +34,7 @@ def count_lines(path, count=0):
             print(file_path, ':', count)
         count = 0
 
+
 def getlines(path):
     file_list = os.listdir(path)
 
