@@ -28,7 +28,7 @@
 
 
 """ deque  ---- 双端队列,左侧和右侧能同时进行类似队列的操作
-                 ---- 能高效插入和删除
+                 ---- 能高效插入和删除,两端的时间复杂度是都O(1)
  """
 #
 # from collections import deque
@@ -40,6 +40,15 @@
 # print(dq.pop())  # 从后面取出数据
 # print(dq.pop())  # 从后面取出数据
 # print(dq.popleft())  # 从前面取出数据
+
+from collections import deque
+maxlenth = 2
+pre_deque = deque(maxlen=maxlenth)  # 设置队列
+
+for i in range(5):
+    pre_deque.append(i)
+    pre_deque.appendleft(i)
+print(pre_deque)
 
 
 """ ordereddict 有序字典
