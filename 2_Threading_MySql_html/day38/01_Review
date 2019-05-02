@@ -1,0 +1,41 @@
+# 默写进程锁
+
+import json
+import time
+
+from multiprocessing import Process, Lock
+
+class TryLock(Process):
+    def __init__(self, lock):
+        super().__init__()
+        self.lock = lock
+    def run(self):
+        lock.acquire()
+        with open('VeiwerLog', 'r+') as f1:
+            dic_view = json.load(f1)
+            if dic_view['viewer_count'] > 0:
+                print('删除了一次访客记录')
+                dic_view['viewer_count'] -= 1
+                json.dump(dic_view, f1)
+            else:
+                print('访客记录已为零.')
+        lock.release()
+
+
+if __name__ == '__main__':
+    lock = Lock()
+    for i in range(6):
+        p = TryLock(lock)
+        p.start()
+
+# 多进程
+# 方法
+    .start()  # 开启子进程
+    .join()  # 进程间同步
+    .terminate()  # 杀死进程
+    .is_alive()  # 判断进程是否活着
+# 属性
+    .name  # 进程名
+    .pid  # 进程号
+    .daemon  # True则为守护进程, 随着主进程代码的执行结束而结束
+
