@@ -1,0 +1,15 @@
+# 信号量 Semaphore
+    # 基于锁的原理，内置了计数器。 同一时间只能有指定数量的进程执行代码段
+
+
+# 事件
+    # wait阻塞受到事件状态控制的同步组件。
+    # 状态有： True/False（默认值）
+        # 设置状态: .clear() 设为默认值  //  .set() 设为True
+
+       # .wait()  状态为True时,不阻塞
+                        False时,阻塞
+
+# 队列
+    # Queue:  ---- put() get() empty() full()
+    # JoinableQueue  ---- 多了 task_done(); join()
