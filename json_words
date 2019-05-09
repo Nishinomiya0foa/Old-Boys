@@ -1,0 +1,2114 @@
+{
+    "poi_list": [
+        {
+            "rating": "3.5",
+            "tel": "010-84569520",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.480434",
+            "address": "芳园西路丽东国际公寓1501",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFJDJNAF",
+            "name": "美容美发",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/a77d08d93097ca59c6bde9acef50bb78",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "美容美发",
+            "cpdata": "",
+            "latitude": "39.972485",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "5.0",
+            "tel": "010-53659418;010-84595001",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.481721",
+            "address": "芳园西路6号院1号楼(北京信息职业技术学院对面)",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFHEMS0S",
+            "name": "研肤深层洁面中心(丽都店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/cb6e88c130ed8648f9dc40b5287fe998",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "研肤深层洁面中心(丽都店)",
+            "cpdata": "",
+            "latitude": "39.974422",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "3.0",
+            "tel": "",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.481061",
+            "address": "芳园西路六号院颐锦酒店b座",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFFYTTXD",
+            "name": "怡然自得美容美发SPA养生会所",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/hairdressor",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "怡然自得美容美发SPA养生会所",
+            "cpdata": "",
+            "latitude": "39.974760",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "5.0",
+            "tel": "010-64343760;13051241698",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.481922",
+            "address": "将台西路(风景线小区对面)芳园南里西区8号楼",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFFAK8GE",
+            "name": "铂秀坊(秀丝坊店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [
+                {
+                    "latitude": "39.971017",
+                    "longitude": "116.482146"
+                }
+            ],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/06f77de4cc59269165aac0682f40216c",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "value": "<font color='#90969a'>人均:</font><font color='#f84b57'>￥</font><font color='#f84b57'>35</font>",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "铂秀坊(秀丝坊店)",
+            "cpdata": "",
+            "latitude": "39.970876",
+            "discount_flag": "1"
+        },
+        {
+            "rating": "4.6",
+            "tel": "010-64301150",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.478038",
+            "address": "将台路6号丽都乡村俱乐部C104室",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B000A839F5",
+            "name": "贝黎诗(丽都店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/6a0f9d485124adb5f1149767c0e93f47",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "value": "<font color='#90969a'>人均:</font><font color='#f84b57'>￥</font><font color='#f84b57'>891</font>",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "贝黎诗(丽都店)",
+            "cpdata": "",
+            "latitude": "39.976702",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.481802",
+            "address": "芳园里46号风景线公寓B幢108号",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFI58ZMM",
+            "name": "君维雅美容中心(芳园里店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [
+                {
+                    "latitude": "39.971102",
+                    "longitude": "116.48174"
+                }
+            ],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/hairdressor",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "君维雅美容中心(芳园里店)",
+            "cpdata": "",
+            "latitude": "39.971452",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "4.5",
+            "tel": "18310197892",
+            "typecode": "070000",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.483507",
+            "address": "东川酒店(酒仙桥颐堤港将台地铁站店)将台路芳园里37号楼底商",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFJ9WY5E",
+            "name": "谦亨短发设计(酒仙桥店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [
+                {
+                    "latitude": "39.971273",
+                    "longitude": "116.48316"
+                }
+            ],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/1256173af7baaad5052e77d7f8fa4b6c",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "070000",
+            "disp_name": "谦亨短发设计(酒仙桥店)",
+            "cpdata": "",
+            "latitude": "39.971198",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "071400",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.481407",
+            "address": "芳园南里西区将台西路8号楼底商A段",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B000AA1256",
+            "name": "足智者按摩美甲美容",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [
+                {
+                    "latitude": "39.971142",
+                    "longitude": "116.481553"
+                }
+            ],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/6f83482938a65dd0509831144b44ecc2",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071400",
+            "disp_name": "足智者按摩美甲美容",
+            "cpdata": "",
+            "latitude": "39.970955",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.482001",
+            "address": "",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFJCB0V7",
+            "name": "曼玉美容美发",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [
+                {
+                    "latitude": "39.971049",
+                    "longitude": "116.482047"
+                }
+            ],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/hairdressor",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "曼玉美容美发",
+            "cpdata": "",
+            "latitude": "39.970872",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "3.5",
+            "tel": "010-84590991",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.484079",
+            "address": "将台路芳园里37号底商中国工商银行旁",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFJCP474",
+            "name": "True Beauty初心美容(将台店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/a63379a62cbedda96eed198db6a033ee",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "True Beauty初心美容(将台店)",
+            "cpdata": "",
+            "latitude": "39.971159",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "4.3",
+            "tel": "010-87923880;13120443095",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.484354",
+            "address": "酒仙桥街道高家园一区6号楼",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFGDZFR3",
+            "name": "克丽缇娜(芳园西路店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/10c6011c61f15bab52b9abd81d501f3f",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "value": "<font color='#90969a'>人均:</font><font color='#f84b57'>￥</font><font color='#f84b57'>168</font>",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "克丽缇娜(芳园西路店)",
+            "cpdata": "",
+            "latitude": "39.976901",
+            "discount_flag": "1"
+        },
+        {
+            "rating": "5.0",
+            "tel": "010-84566150;010-84566607",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.484830",
+            "address": "将台路高家园一区底商6号楼(近丽都饭店)",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B000A85R1A",
+            "name": "创美丽人(丽都饭店店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/fcd230e85f4bb2d999a445941bfd28b7",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "value": "<font color='#90969a'>人均:</font><font color='#f84b57'>￥</font><font color='#f84b57'>286</font>",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "创美丽人(丽都饭店店)",
+            "cpdata": "",
+            "latitude": "39.977343",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "3.0",
+            "tel": "",
+            "typecode": "071400",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.482567",
+            "address": "将台西路与芳园南街交叉口西南100米",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFFOKO0N",
+            "name": "足道保健SPA艾灸调理美容美体美甲",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/massage",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071400",
+            "disp_name": "足道保健SPA艾灸调理美容美体美甲",
+            "cpdata": "",
+            "latitude": "39.970505",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "4.8",
+            "tel": "010-84569520",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.481113",
+            "address": "高家园3区1号楼5门101号",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B000A7Z4WM",
+            "name": "馨苑美容美发",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/e47d6eb449c58f4d3a8722acd2093186",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "value": "<font color='#90969a'>人均:</font><font color='#f84b57'>￥</font><font color='#f84b57'>49</font>",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "馨苑美容美发",
+            "cpdata": "",
+            "latitude": "39.978794",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "3.0",
+            "tel": "",
+            "typecode": "071400",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.486189",
+            "address": "将台路商业街1号2层",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFGVI4RG",
+            "name": "足金道",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/94b561bb78f4a093819335287eb3a6e9",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071400",
+            "disp_name": "足金道",
+            "cpdata": "",
+            "latitude": "39.975055",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "010-51357872",
+            "typecode": "090201",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.482954",
+            "address": "将台路乙2号海润国际公寓1号楼底商5号",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFIR1W2M",
+            "name": "钻石之星医疗整形",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "value": "<font color='#999999'>整形美容</font>",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "090201",
+            "disp_name": "钻石之星医疗整形",
+            "cpdata": "",
+            "latitude": "39.976610",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "",
+            "tel": "",
+            "typecode": "170200",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.484280",
+            "address": "酒仙桥高家园小区一区6号楼7号",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFFQU125",
+            "name": "北京佳韵美容有限公司",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "170200",
+            "disp_name": "北京佳韵美容有限公司",
+            "cpdata": "",
+            "latitude": "39.976954",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "5.0",
+            "tel": "010-59392485",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.477156",
+            "address": "东四环北路2号阳光上东双子座公寓7层702(近芳园西路)",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B000AA4VQ5",
+            "name": "伊美源泉美容中心(阳光上东店)",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/46e20d8ad87d16ccfaf55b5fae81e95d",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "value": "<font color='#90969a'>人均:</font><font color='#f84b57'>￥</font><font color='#f84b57'>1520</font>",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "伊美源泉美容中心(阳光上东店)",
+            "cpdata": "",
+            "latitude": "39.968175",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "5.0",
+            "tel": "010-84578896;13501017388",
+            "typecode": "071100",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.482892",
+            "address": "芳园南街9号院7号楼水岸会所5层",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFG4PSYA",
+            "name": "北京一美医疗美容",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/hairdressor",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "071100",
+            "disp_name": "北京一美医疗美容",
+            "cpdata": "",
+            "latitude": "39.969355",
+            "discount_flag": "0"
+        },
+        {
+            "rating": "4.5",
+            "tel": "010-84572707",
+            "typecode": "070000",
+            "areacode": "010",
+            "cityname": "北京市",
+            "display_brand": "",
+            "shape_region": "",
+            "longitude": "116.484553",
+            "address": "芳园西路高家园一区6号楼1楼106室底商",
+            "cinemazuo_flag": "0",
+            "diner_flag": "0",
+            "id": "B0FFIGX9YY",
+            "name": "曼玉护肤造型",
+            "group_flag": "0",
+            "distance": "0",
+            "entrances": [],
+            "recommend_flag": "0",
+            "exits": [],
+            "adcode": "110105",
+            "domain_list": [
+                {
+                    "type": "html",
+                    "id": "1015",
+                    "name": "poiclosed"
+                },
+                {
+                    "type": "img",
+                    "id": "1003",
+                    "name": "icon"
+                },
+                {
+                    "type": "html",
+                    "id": "1011",
+                    "name": "traffic"
+                },
+                {
+                    "type": "text",
+                    "id": "1014",
+                    "name": "roadaoi"
+                },
+                {
+                    "type": "button",
+                    "id": "1012",
+                    "name": "ext_btn"
+                },
+                {
+                    "type": "webimg",
+                    "id": "1009",
+                    "value": "http://store.is.autonavi.com/showpic/11c99b6b4424212b5b42035e390c14ee",
+                    "name": "pic_info"
+                },
+                {
+                    "type": "img",
+                    "id": "1008",
+                    "name": "overbooked"
+                },
+                {
+                    "type": "img",
+                    "id": "1007",
+                    "name": "moreservice"
+                },
+                {
+                    "type": "html",
+                    "id": "1006",
+                    "name": "tag"
+                },
+                {
+                    "type": "text",
+                    "id": "1005",
+                    "name": "parent_info"
+                },
+                {
+                    "type": "array",
+                    "name": "parent_other_rel",
+                    "id": "1004"
+                },
+                {
+                    "type": "text",
+                    "id": "1010",
+                    "name": "business_area"
+                },
+                {
+                    "type": "html",
+                    "id": "1002",
+                    "name": "deepinfo"
+                },
+                {
+                    "type": "html",
+                    "id": "1001",
+                    "name": "price"
+                },
+                {
+                    "type": "text",
+                    "id": "1013",
+                    "name": "aoi"
+                }
+            ],
+            "newtype": "070000",
+            "disp_name": "曼玉护肤造型",
+            "cpdata": "",
+            "latitude": "39.977078",
+            "discount_flag": "0"
+        }
+    ]
+}

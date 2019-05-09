@@ -27,6 +27,7 @@ def getcode(n):
 
             f1.write('{}\n'.format(code))
 
+
 if __name__ == '__main__':
     getcode(200)
 
