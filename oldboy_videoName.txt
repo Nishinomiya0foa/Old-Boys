@@ -183,8 +183,6 @@
 02 python fullstack s10 day40 线程理论
 03 python fullstack s10 day40 threading模块和基础代码
 04 python fullstack s10 day40 全局解释器锁及threading的其他方法
-
-
 01 python fullstack s10 day41 复习
 02 python fullstack s10 day41 守护线程
 03 python fullstack s10 day41 锁
@@ -192,6 +190,8 @@
 05 python fullstack s10 day41 条件和定时器
 06 python fullstack s10 day41 队列
 07 python fullstack s10 day41 线程池
+
+
 考试题讲解1
 考试题讲解2
 01 python fullstack s10 day42 初识协程
