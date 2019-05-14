@@ -27,7 +27,7 @@ def update_process(url):
     return page_dict['data']['vlist']  # 列表
 
 
-def deal_data(data:list):
+def deal_data(data: list):
     """回调函数
     将数据写入到日志表 和 更新表
     """
@@ -41,10 +41,11 @@ def deal_data(data:list):
                     flag = False
                     break
             if flag:
-                f1.write('https://www.bilibili.com/video/av{aid},{author},{title}\n'.format(aid=data[i]['aid'], author=data[i]['author'], title=data[i]['title'],))
-                f2.write('{aid},{author},{title}\n'.format(aid=data[i]['aid'], author=data[i]['author'], title=data[i]['title'],))
-                # print('更新成功')
-        print('用户 {} 更新完成.'.format(data[0]['author']))
+                f1.write('https://www.bilibili.com/video/av{aid},{author},{title}\n'
+                         .format(aid=data[i]['aid'], author=data[i]['author'], title=data[i]['title'],))
+                f2.write('{aid},{author},{title}\n'
+                         .format(aid=data[i]['aid'], author=data[i]['author'], title=data[i]['title'],))
+                print('用户 {} 更新完成.'.format(data[0]['author']))
 
 
 if __name__ == '__main__':
